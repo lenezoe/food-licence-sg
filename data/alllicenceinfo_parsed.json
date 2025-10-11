@@ -1,0 +1,641 @@
+[
+  [
+    {
+      "title": "Import of Animal Feed for Food-Producing Animals",
+      "subsection": null,
+      "description": "Businesses that want to import animal feed for food-producing animals (e.g. live chickens and fish) must register with SFA and obtain a Cargo Clearance Permit (CCP) issued by Singapore Customs for each consignment.",
+      "licence": "Registration to Import Animal Feed",
+      "reason_for_licence": "Businesses must register to import animal feed for food-producing animals.",
+      "requirements": "Must be registered with ACRA, activate UEN with Singapore Customs, set up a GIRO arrangement with SFA, and ensure animal feed complies with SFA’s requirements.",
+      "app_guidance": "Log into the GoBusiness portal to submit your Registration to Import Animal Feed. Complete applications are processed within 1 working day.",
+      "other": "Animal feed must be packaged and labelled in English with specific information.",
+      "url": "https://www.sfa.gov.sg/food-import-export/commercial-imports/what-you-need-to-know-for-import-of-animal-feed"
+    }
+  ],
+  [
+    {
+      "title": "Export / Tranship of Animal Feed for Food-Producing Animals",
+      "subsection": "Licence, Permit & Registration",
+      "description": "Businesses that want to export or tranship animal feed for food-producing animals must have a Cargo Clearance Permit (CCP) for each consignment. Animal feed for non-food-producing animals is regulated by NParks. To import, export, or tranship animal feed, you need to fulfil some general requirements. For instance, registration with ACRA is mandatory, and your UEN must be activated with Customs. In addition, if the animal feed that you intend to export/tranship is regulated by SFA, you must set up a GIRO arrangement with SFA.",
+      "licence": "Licence to Manufacture Animal Feed and Process of Animal Feed for Food-Producing Animals",
+      "reason_for_licence": "Animal feed that is manufactured or processed locally must be manufactured or processed by a SFA-approved establishment holding a valid Licence.",
+      "requirements": "Animal feed must be manufactured or processed by a SFA-approved establishment holding a valid Licence to Manufacture and Process Animal Feed from SFA. Registration with ACRA is mandatory, and UEN must be activated with Customs. A GIRO arrangement with SFA is required if the animal feed is regulated by SFA.",
+      "app_guidance": "Step 1: Ensure that your animal feed meets SFA’s requirements. Step 2: Ensure that your animal feed meets the requirements of the destination country/region. Step 3: Apply for a Cargo Clearance Permit (CCP) through TradeNet for each consignment.",
+      "other": "Approval by SFA is processed within 1 working day. Fees for animal feed are $22 per consignment.",
+      "url": "https://www.sfa.gov.sg/commercial-exports/what-you-need-to-know-for-export-tranship-of-animal-feed"
+    }
+  ],
+  [
+    {
+      "title": "Licence for Import/Export/Transhipment of Meat and Fish Products",
+      "subsection": null,
+      "description": "LICENCE FOR IMPORT/EXPORT/ TRANSSHIPMENT OF MEAT AND FISH PRODUCTS is required if Traders involved in the import/export/transshipment of meat and fish products.",
+      "licence": "Licence for Import/Export/Transhipment of Meat and Fish Products",
+      "reason_for_licence": "Required for traders involved in the import/export/transshipment of meat and fish products.",
+      "requirements": "1. Top Up CPF MediSave. 2. Activate UEN with Singapore Customs. 3. Submit original GIRO form.",
+      "app_guidance": "Apply on GoBusiness Dashboard. Refer to the user guide for application steps.",
+      "other": "Licence Fee: $84.00. Documents Needed: Any Supporting Documents (max upload per application: 2MB).",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/singapore-food-agency-(sfa)/licence-for-import-export-transhipment-of-meat-and-fish-products"
+    }
+  ],
+  [
+    {
+      "title": "Licence for Import/Transhipment of Fresh Fruits and Vegetables",
+      "subsection": null,
+      "description": "LICENSE FOR IMPORT/TRANSSHIPMENT OF FRESH FRUITS AND VEGETABLES is required if Traders involved in the import/transshipment of fresh fruits and vegetables.",
+      "licence": "Licence for Import/Transhipment of Fresh Fruits and Vegetables",
+      "reason_for_licence": "Required for traders involved in the import/transshipment of fresh fruits and vegetables.",
+      "requirements": "1. Top Up CPF MediSave. 2. Activate UEN with Singapore Customs. 3. Submit original GIRO form.",
+      "app_guidance": "Apply on GoBusiness Dashboard. Refer to the guide on the steps for application.",
+      "other": "Licence Fee: $378.00. Any supporting document required, maximum upload per application: 2MB.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/singapore-food-agency-(sfa)/licence-for-import-transhipment-of-fresh-fruits-and-vegetables"
+    }
+  ],
+  [
+    {
+      "title": "Licence to Import Poultry",
+      "subsection": null,
+      "description": "The Licence to Import Poultry is issued to importers by Singapore Food Agency to import Broiler Chickens and Broiler Ducks.",
+      "licence": "Licence to Import Poultry",
+      "reason_for_licence": "This licence is required for businesses importing poultry.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business",
+      "app_guidance": "Apply on GoBusiness Dashboard. Refer to the new application user guide and common modules user guide for assistance.",
+      "other": "This licence is only for business users with a registered Unique Entity Number (UEN).",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/singapore-food-agency-(sfa)/licence-to-import-poultry"
+    }
+  ],
+  [
+    {
+      "title": "Licence to Import Sheep & Goats",
+      "subsection": null,
+      "description": "The Licence to Import Sheep and Goats is issued to importers by Singapore Food Agency to import Sheep and Goats.",
+      "licence": "Licence to Import Sheep & Goats",
+      "reason_for_licence": "This licence is required for importers to import sheep and goats.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business",
+      "app_guidance": "Apply on GoBusiness Dashboard. Refer to the new application user guide and common modules user guide for assistance.",
+      "other": "This licence is only for business users with a registered Unique Entity Number (UEN).",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Sheep-&-Goats"
+    }
+  ],
+  [
+    {
+      "title": "Licence to Import Table Eggs",
+      "subsection": null,
+      "description": "The Licence to Import Table Eggs is issued to importers by Singapore Food Agency to import Table Eggs.",
+      "licence": "Licence to Import Table Eggs",
+      "reason_for_licence": "This licence is required for importers to import Table Eggs.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business, SFA - Licence to Operate a Food Processing Establishment.",
+      "app_guidance": "Apply on GoBusiness Dashboard.",
+      "other": "For Business Users only. This licence is only for business users with a registered Unique Entity Number (UEN).",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Table-Eggs"
+    }
+  ],
+  [
+    {
+      "title": "Licence to Import/Export/Tranship Food Animals, Birds, Eggs and Biologics",
+      "subsection": null,
+      "description": "The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics is issued by Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore.",
+      "licence": "Licence to Import/Export/Tranship Food Animals, Birds, Eggs and Biologics",
+      "reason_for_licence": "This licence is required for importing/exporting/transhipping animals, birds, or their products.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business",
+      "app_guidance": "Apply on GoBusiness Dashboard. Refer to the new application user guide and common modules user guide for assistance.",
+      "other": "Fees: Commercial (Birds / Eggs): $62, Animal Product / Reproduction Material: $22, Commercial (Livestock): $87.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/licence-to-import-export-tranship-food-animals--birds--eggs-and-biologics"
+    }
+  ],
+  [
+    {
+      "title": "Registration to Import Animal Feed",
+      "subsection": null,
+      "description": "The Registration to Import Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This registration is issued to importers to import animal feed.",
+      "licence": "Registration to Import Animal Feed",
+      "reason_for_licence": "This registration is required for importers to import animal feed.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business",
+      "app_guidance": "Apply on GoBusiness Licensing. Please use desktop / laptop to apply for this licence. You can only view application details and make payment via mobile.",
+      "other": "This licence is only for business users with a registered Unique Entity Number (UEN).",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Animal-Feed"
+    }
+  ],
+  [
+    {
+      "title": "Registration to Import Feed for Food Producing Animals",
+      "subsection": null,
+      "description": "The Registration to Import Feed for Food Producing Animals is issued by Singapore Food Agency. This registration is issued to importers to import animal feed.",
+      "licence": "Registration to Import Feed for Food Producing Animals",
+      "reason_for_licence": "This registration is required for importers to import animal feed for food-producing animals.",
+      "requirements": "This licence is only for business users with a registered Unique Entity Number (UEN).",
+      "app_guidance": "Apply on GoBusiness Dashboard.",
+      "other": "N.A.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Feed-for-Food-Producing-Animals"
+    }
+  ],
+  [
+    {
+      "title": "Registration to Import Processed Food Products and Food Appliances",
+      "subsection": null,
+      "description": "Registration to Import Processed Food Products and Food Appliances is required if Traders involve in the import of processed food (not containing meat and fish products, fresh fruits and vegetables) and food appliances.",
+      "licence": "Registration to Import Processed Food Products and Food Appliances",
+      "reason_for_licence": "This licence is required for traders importing processed food and food appliances.",
+      "requirements": "1. Top Up CPF MediSave. 2. Activate UEN with Singapore Customs. 3. Submit original GIRO form.",
+      "app_guidance": "Apply on GoBusiness Dashboard.",
+      "other": "This licence is only for business users with a registered Unique Entity Number (UEN).",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances"
+    }
+  ],
+  [
+    {
+      "title": "Registration to Import Live Frogs for Human Consumption",
+      "subsection": null,
+      "description": "The Registration to Import Live Frogs for Human Consumption is issued by Singapore Food Agency. This registration is issued to importers to import live frogs intended for human consumption.",
+      "licence": "Registration to Import Live Frogs for Human Consumption",
+      "reason_for_licence": "This registration is required for importers to import live frogs intended for human consumption.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business",
+      "app_guidance": "Apply on GoBusiness Dashboard. Refer to the guide on the steps for application.",
+      "other": "This licence is only for business users with a registered Unique Entity Number (UEN).",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Live-Frogs-for-Human-Consumption"
+    }
+  ],
+  [
+    {
+      "title": "Rice Licence",
+      "subsection": null,
+      "description": "A licence issued by the Singapore Food Agency (SFA) is required to import (into Singapore or Singapore Free Trade Zone), export and carry out wholesale dealings in rice.",
+      "licence": "Rice Licence",
+      "reason_for_licence": "Rice is a controlled item under the Price Control Act and requires a licence for import, export, and wholesale dealings.",
+      "requirements": "This licence is only for business users with a registered Unique Entity Number (UEN).",
+      "app_guidance": "Apply on GoBusiness Dashboard.",
+      "other": "For more information on permit applications for import and export, rice licences, and FAQs, please visit the Rice website.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Rice-Licence"
+    }
+  ],
+  [
+    {
+      "title": "Requirements for Food Shop Licences",
+      "subsection": "Requirements for Licence / Permit for Food Retail",
+      "description": "Food Shops include bakeries, restaurants, food vending machines, canteens, coffee shops, eating houses, food courts, standalone kiosks, takeaway food carts, and private canteens/markets. The requirements and conditions for Food Shop Licences can be found in the Food Shop Self-Checklist.",
+      "licence": "Food Shop Licence",
+      "reason_for_licence": "Food Shops must have a Food Shop Licence to operate.",
+      "requirements": "Operators must provide hand sanitisers or disposable gloves in buffet settings, and selected food shops must implement the Environmental Sanitation Regime (ESR).",
+      "app_guidance": "Refer to the Food Shop Self-Checklist for detailed requirements.",
+      "other": "Specific types of Food Shops, such as Pet Cafes, Mobile Food Wagons, and Mini Restaurants have additional requirements.",
+      "url": "https://www.sfa.gov.sg/food-retail/licence-permit/requirements-for-licence-permit-for-food-retail"
+    },
+    {
+      "title": "Requirements for Supermarket Licences",
+      "subsection": "Requirements for Supermarket Licences",
+      "description": "Supermarkets that sell raw meat or seafood, or conduct on-site preparation of food for sale require a SFA licence to operate. Retailers that solely sell pre-packed food do not require SFA food retail licences.",
+      "licence": "Supermarket Licence",
+      "reason_for_licence": "Supermarkets selling raw meat or seafood or conducting on-site preparation must have a licence.",
+      "requirements": "Documentary, design, and other requirements as detailed in the Supermarket Self-Checklist.",
+      "app_guidance": "Contact SFA via the Online Feedback Form for more information.",
+      "other": "Beverage Container Return Scheme will be introduced from 1 April 2026.",
+      "url": "https://www.sfa.gov.sg/food-retail/licence-permit/requirements-for-supermarket-licences"
+    },
+    {
+      "title": "Requirements for Temporary Fair Permits",
+      "subsection": "Requirements for Temporary Fair Permits",
+      "description": "To operate Temporary Fairs, you must have a permit from SFA. Operating without a valid permit is an offence.",
+      "licence": "Permit for Temporary Fair",
+      "reason_for_licence": "Temporary Fairs require a permit to operate legally.",
+      "requirements": "Permit holders must ensure all stalls handling food hold SFA licences and comply with SFA’s requirements.",
+      "app_guidance": "Submit your application at least 2 weeks before the fair start date.",
+      "other": "Operators must comply with Environmental Public Health (Food Hygiene) Regulations.",
+      "url": "https://www.sfa.gov.sg/food-retail/licence-permit/requirements-for-temporary-fair-permits"
+    }
+  ],
+  [
+    {
+      "title": "Types of Online Food Businesses",
+      "subsection": null,
+      "description": "SFA regulates all types of food businesses in Singapore, including online food businesses. The online food business sector is diverse. The businesses can be broadly categorised into three main types: Online food sellers, Organisers of group buys, Food Delivery Services. All types of food businesses, whether online or physical, must comply with prevailing food laws and regulations. This also applies to food businesses that do not require a licence from SFA to operate, such as e-commerce platforms and organisers of group buys.",
+      "licence": "No licence required",
+      "reason_for_licence": "E-commerce platforms and organisers of group buys do not require a licence to operate.",
+      "requirements": "Must comply with prevailing food laws and regulations.",
+      "app_guidance": "N/A",
+      "other": "The sale of food that is unsafe, unsuitable, or unfit for consumption is prohibited.",
+      "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/online-food-businesses/types-of-online-food-businesses"
+    }
+  ],
+  [
+    {
+      "title": "Home-based Food Businesses",
+      "subsection": "About HDB/URA Home-based Business Scheme",
+      "description": "The Home-based Business Scheme enables anyone to run a small-scale business, including a food business, from their home, provided they comply with the requirements and conditions. This scheme allows home-based businesses to operate without requiring approval from the HDB or Urban Redevelopment Authority (URA), provided they meet all the scheme's requirements.",
+      "licence": "No licence required",
+      "reason_for_licence": "Home-based food businesses do not require approval from the HDB or URA to operate.",
+      "requirements": "All home-based food businesses must comply with food rules and regulations and food safety laws.",
+      "app_guidance": "For more details, see: Requirements for Home-based Food Businesses.",
+      "other": "Specific restrictions apply, such as not selling to food retailers and not offering ready-to-eat raw seafood.",
+      "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/home-based-food-businesses/about-hdb-ura-home-based-business-scheme"
+    }
+  ],
+  [
+    {
+      "title": "Requirements for Food Delivery Businesses",
+      "subsection": null,
+      "description": "Food delivery businesses, although not required to obtain a licence from the SFA to operate, still have legal responsibilities and must comply with food safety laws and regulations.",
+      "licence": "No licence required",
+      "reason_for_licence": "Food delivery businesses are not required to obtain a licence from the SFA to operate.",
+      "requirements": "Operators must ensure that the way in which food is delivered to customers does not compromise food safety.",
+      "app_guidance": "N/A",
+      "other": "Food delivery workers are not required to attend food safety courses as they do not handle or prepare food.",
+      "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/food-delivery-businesses/requirements-for-food-delivery-businesses"
+    }
+  ],
+  [
+    {
+      "title": "Guidelines for Group-Buy Organisers",
+      "subsection": null,
+      "description": "Group buying is a type of online food business where an organiser buys food in bulk for group members to get lower prices or other perks. Even though you do not need a licence to organise a group buy, you must still comply with the law. Here is how you can fulfil your legal responsibilities when organising group buys.",
+      "licence": "No licence required",
+      "reason_for_licence": "Group buys are private arrangements among members of a group and do not require a licence from SFA.",
+      "requirements": "Follow food safety laws to ensure food is safe for everyone.",
+      "app_guidance": "No application process required for organising group buys.",
+      "other": "Educate group members about food safety practices.",
+      "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/group-buy-activities/guidelines-for-group-buy-organisers"
+    }
+  ],
+  [
+    {
+      "title": "Food Shop Licence",
+      "subsection": null,
+      "description": "For the operation of a food shop where there is retail sale of food and/or beverage. You will need to apply for a Food Shop Licence if you intend to operate a retail food outlet where food and/or drink are sold wholly by retail. The purpose of licensing is to ensure cleanliness and food safety in food retail outlets and to prevent food-borne diseases.",
+      "licence": "Food Shop Licence",
+      "reason_for_licence": "Licensing is required to ensure cleanliness and food safety in food retail outlets.",
+      "requirements": "Complete all fields on the application form, submit layout plan with metric scale, indicate kitchen equipment and infrastructure, and boundaries of refreshment area.",
+      "app_guidance": "Step 1: Obtain In-Principle Approval via GoBusiness. Step 2: Commence Renovation & Set-up. Step 3: Request for Inspection. Step 4: Complete Payment for Licence.",
+      "other": "The licence costs $195.00 and is valid for one year. Selected retail foodshops are required to implement the mandatory ES regime and submit the Environmental Sanitation Programme (ESP) within 1 month to NEA.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/singapore-food-agency-(sfa)/food-shop-licence"
+    }
+  ],
+  [
+    {
+      "title": "Food Stall Licence",
+      "subsection": null,
+      "description": "For the operation of a foodstall where there is retail sale of food and/or beverage in a foodshop such as private eating houses, coffeeshops, food courts, canteens and private markets.",
+      "licence": "Food Stall Licence",
+      "reason_for_licence": "Required for operating a food stall in designated areas.",
+      "requirements": [
+        "Complete all fields on the application form",
+        "Submit the tenancy / lease agreement along with its Certificate of Stamp Duty",
+        "Submit the layout plan that reflects the location of the specific stall"
+      ],
+      "app_guidance": "Apply on GoBusiness Dashboard. Successful applicants will be notified within 7 working days via email.",
+      "other": "The Food Stall Licence costs S$32.00 and is valid for one year, with options for two-year validity.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/singapore-food-agency-(sfa)/food-stall-licence"
+    }
+  ],
+  [
+    {
+      "title": "Supermarket Licence",
+      "subsection": null,
+      "description": "For the operation of a supermarket with the sale/preparation of raw food. You will need to apply for a Supermarket Licence if you intend to operate a supermarket with the sale/preparation of raw food. The purpose of licensing is to ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.",
+      "licence": "Supermarket Licence",
+      "reason_for_licence": "To ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.",
+      "requirements": "Planning Permission/Change of Use approval, Approval from URA/HDB for the use of the premises, Layout plan of the premises, Tenancy Agreement/Letter of consent, Pest Control Contract, Cleaning programme/schedule, Food Safety Course Level 1 certificate.",
+      "app_guidance": "Step 1: Obtain In-Principle Approval via GoBusiness. Step 2: Commence Renovation & Set-up. Step 3: Request for Inspection. Step 4: Complete Payment for Licence.",
+      "other": "The supermarket licence costs $250.00/$500.00 depending on the total floor area and is valid for one year.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Supermarket-Licence"
+    }
+  ],
+  [
+    {
+      "title": "Permit for Temporary Fair",
+      "subsection": null,
+      "description": "A temporary set up with makeshift stalls to sell food and or goods. A permit is required from SFA to hold a fair. The permit will be issued to the operator who manages and operates the fair only after all requirements have been complied with. No fair shall begin operation, unless a permit is issued. The permit is $60, regardless of the duration of the temporary fair.",
+      "licence": "Permit for Temporary Fair",
+      "reason_for_licence": "Under the Environmental Public Health Act, all operators of temporary fairs must get a permit from SFA for the duration of the fair.",
+      "requirements": [
+        "Letter of appointment",
+        "Site use approval",
+        "Support documentation (e.g. consensus from shopkeepers’/merchants’ association)",
+        "Layout plan detailing stalls with food handling and their necessary infrastructure",
+        "Completed declaration form"
+      ],
+      "app_guidance": "Submit complete application via GoBusiness at least 2 weeks before the fair commencement date. Documentation must be submitted at least five working days before the planned fair start date.",
+      "other": "Operating temporary fairs illegally without a valid permit is an offence. Prohibitions include the display and/or sale of animals and tobacco products.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Permit-for-Temporary-Fair"
+    }
+  ],
+  [
+    {
+      "title": "Temporary Fair Stall Licence",
+      "subsection": null,
+      "description": "This licence is only for stalls within temporary fairs that conduct handling or preparation of food for sale. There is no separate fee for this licence, and it is valid only during the fair duration.",
+      "licence": "Temporary Fair Stall Licence",
+      "reason_for_licence": "This licence is required for stalls that handle or prepare food for sale at temporary fairs.",
+      "requirements": [
+        "A photocopy of food handler’s WP (both sides)",
+        "Food Safety Course Level 1 / Refresher Food Safety Course Level 1",
+        "A copy of lease contract with temporary fair organiser / appointed temporary fair operator"
+      ],
+      "app_guidance": "Apply on GoBusiness Dashboard.",
+      "other": "No licence is needed for stalls that sell non-food items or pre-packed food items from SFA-licensed food processing establishments, food retail establishments, or importers.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Temporary-Fair-Stall-Licence"
+    }
+  ],
+  [
+    {
+      "title": "Businesses that Need Licence / Registration for Food Manufacturing & Storage",
+      "subsection": "Licence & Registration",
+      "description": "To carry out any food manufacturing or food storage activities in your establishment, you must have a licence/registration from SFA. It is an offence under the prevailing food safety laws to carry out the above activities without a valid SFA licence/registration.",
+      "licence": "Licence to Operate a Food Processing Establishment",
+      "reason_for_licence": "All food processing establishments must be licensed before they manufacture, process, prepare, or package food for distribution to wholesalers and retailers.",
+      "requirements": "Applicants must comply with general requirements, prevailing food safety laws, and licensing conditions.",
+      "app_guidance": "For details on the application process, see Application Process & Fees for Licence / Registration for Food Manufacturing & Storage.",
+      "other": "Food processing establishments are not permitted to manufacture or store feed for non-food producing animals.",
+      "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage"
+    },
+    {
+      "title": "Licence to Operate a Coldstore",
+      "subsection": "Licence & Registration",
+      "description": "All coldstores for meat and seafood products must be licensed before they store food for wholesale distribution. This licence is for storage only. There must not be any processing or retail activities.",
+      "licence": "Licence to Operate a Coldstore",
+      "reason_for_licence": "All coldstores for meat and seafood products must be licensed before they store food for wholesale distribution.",
+      "requirements": "Applicants must comply with general requirements, prevailing food safety laws, and licensing conditions.",
+      "app_guidance": "For details on the application process, see Application Process & Fees for Licence / Registration for Food Manufacturing & Storage.",
+      "other": "If you process and store meat and seafood products, you only need to apply for the Licence to Operate a Food Processing Establishment.",
+      "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage"
+    },
+    {
+      "title": "Licence to Operate a Slaughterhouse",
+      "subsection": "Licence & Registration",
+      "description": "All slaughterhouses for poultry and livestock must be licensed before they slaughter, process, prepare, package, or store food for distribution to wholesalers or retailers.",
+      "licence": "Licence to Operate a Slaughterhouse",
+      "reason_for_licence": "All slaughterhouses for poultry and livestock must be licensed before they slaughter, process, prepare, package, or store food for distribution.",
+      "requirements": "Applicants must comply with general requirements, prevailing food safety laws, and licensing conditions.",
+      "app_guidance": "For details on the application process, see Application Process & Fees for Licence / Registration for Food Manufacturing & Storage.",
+      "other": "Food processing establishments are not permitted to manufacture or store feed for non-food producing animals.",
+      "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage"
+    },
+    {
+      "title": "Registration of Food Storage Warehouses (non-meat/non-fish)",
+      "subsection": "Licence & Registration",
+      "description": "Food storage warehouses are encouraged to register with SFA to facilitate traceability in the event of food recalls.",
+      "licence": "No licence required",
+      "reason_for_licence": "Food storage warehouses are encouraged to register with SFA to facilitate traceability in the event of food recalls.",
+      "requirements": "Applicants must be eligible and are advised to align their practices to SFA’s Good Warehousing Practices.",
+      "app_guidance": "For details on the application process, see Application Process & Fees for Licence / Registration for Food Manufacturing & Storage.",
+      "other": "You will require a SFA licence if there is chilled/frozen storage of meat and seafood products.",
+      "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage"
+    }
+  ],
+  [
+    {
+      "title": "Application Process & Fees for Licence to Manufacture and Process Animal Feed for Food-Producing Animals",
+      "subsection": "Licence, Permit & Registration",
+      "description": "You must have a SFA licence to manufacture or process animal feed for food-producing animals. This page outlines the main steps involved in the application for a licence. All local producers of animal feed for food-producing animals must be licensed by SFA before commencing feed production at the approved establishment. The licence is issued with a validity period of 1 year.",
+      "licence": "Licence to Manufacture Animal Feed and Process of Animal Feed for Food-Producing Animals",
+      "reason_for_licence": "All local producers of animal feed for food-producing animals must be licensed by SFA before commencing feed production.",
+      "requirements": "Must be registered with ACRA and have a UEN issued by ACRA. Applicants must have an active CorpPass account.",
+      "app_guidance": "Step 1: Submit licence application and business proposal via GoBusiness portal. Step 2: Apply for pre-licensing inspection. Step 3: Sign up for GIRO for payment. Step 4: SFA issues your licence. Step 5: Pay licence fees via GoBusiness portal.",
+      "other": "Feed producers are not permitted to supply animal feed to consumers or to food establishments for processing or retail as human food.",
+      "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/application-process-fees-for-licence-to-manufacture-and-process-animal-feed"
+    }
+  ],
+  [
+    {
+      "title": "Licence to Manufacture Animal Feed and Process of Animal Feed for Food Producing Animals",
+      "subsection": null,
+      "description": "All local commercial producers of animal feed for food producing animals must get a Singapore Food Agency (SFA)’s issued licence before they can manufacture and process animal feed. This include livestock feed and aquaculture feed.",
+      "licence": "Licence to Manufacture Animal Feed and Process of Animal Feed for Food-Producing Animals",
+      "reason_for_licence": "This licence is required for local commercial producers of animal feed for food producing animals.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business. Approval document for use of Premises and waste disposal (URA, HDB / JTC, NEA / SFA), Layout plan of production area, Flow Chart of manufacturing/processing steps, Labelling, Standard Operation Procedure.",
+      "app_guidance": "Apply on GoBusiness Dashboard.",
+      "other": "Licence Fees: $240.00.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Manufacture-Animal-Feed-and-Process-of-Animal-Feed-for-Food-Producing-Animals"
+    }
+  ],
+  [
+    {
+      "title": "Businesses that Need Licence / Registration for Farming",
+      "subsection": "Licence, Permit & Registration",
+      "description": "To carry out farming activities regulated by SFA, you must have the required licence/registration. You will need a licence/registration for the following activities regulated by SFA: operating a land-based farm for commercial production, operating a fish culture farm for commercial production, operating fishing vessels servicing fish culture farms, engaging personnel for activities on fish culture farms.",
+      "licence": "Farm Licence",
+      "reason_for_licence": "Required for operating land-based farms for commercial food production.",
+      "requirements": "Land-based farms for keeping, rearing, or breeding animals or birds, or cultivating plants, for commercial food production.",
+      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence for Farming.",
+      "other": "Fees for Farm Licence is $100 per year.",
+      "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming"
+    },
+    {
+      "title": "Fish Culture Farm Licence",
+      "subsection": "Licence, Permit & Registration",
+      "description": "Sea-based fish culture farms for commercial production e.g. fish farms and shrimp farms.",
+      "licence": "Fish Culture Farm Licence",
+      "reason_for_licence": "Required for operating sea-based fish culture farms for commercial production.",
+      "requirements": "Sea-based fish culture farms for commercial production.",
+      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence for Farming.",
+      "other": "Fees for Fish Culture Farm Licence is $145 per year.",
+      "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming"
+    },
+    {
+      "title": "Fishing Vessel Licence",
+      "subsection": "Licence, Permit & Registration",
+      "description": "Servicing fish culture farms.",
+      "licence": "Fishing Vessel Licence",
+      "reason_for_licence": "Required for servicing fish culture farms.",
+      "requirements": "Fishing vessels servicing fish culture farms.",
+      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence for Farming.",
+      "other": "Fees for Fishing Vessel Licence range from $66 to $470 per year depending on the vessel type.",
+      "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming"
+    },
+    {
+      "title": "Registration of Personnel on Fish Culture Farms",
+      "subsection": "Licence, Permit & Registration",
+      "description": "All employees and persons engaged in activities on the fish culture farm.",
+      "licence": "No licence required",
+      "reason_for_licence": "No fee is required for registration of personnel.",
+      "requirements": "All employees and persons engaged in activities on the fish culture farm.",
+      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence for Farming.",
+      "other": "Registration of Personnel has no fee.",
+      "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming"
+    }
+  ],
+  [
+    {
+      "title": "Requirements for Pesticide Usage in Farms",
+      "subsection": "Pesticides",
+      "description": "Licensed farms are only permitted to use agricultural pesticides that are registered with SFA. Registered pesticides can only be applied by certified pesticide operators.",
+      "licence": "No licence required",
+      "reason_for_licence": "All farm licensees are required to comply with the usage requirements.",
+      "requirements": [
+        "Use only registered agricultural pesticides",
+        "Never use or store non-agricultural pesticides on your farm",
+        "Pesticides must be applied by certified pesticide operators",
+        "Always ensure pesticide residue is within limits",
+        "Keep records of pesticide use",
+        "Dispose of unused pesticides and empty pesticide receptacles safely",
+        "The requirements apply also to pesticide-free or chemical-free farms"
+      ],
+      "app_guidance": "Farm licensees can contact their Account Manager. You can also contact via the SFA Online Feedback Form.",
+      "other": "SFA ensures compliance through the surveillance regime and will take action against any infringements.",
+      "url": "https://www.sfa.gov.sg/farming/pesticides/requirements-for-pesticide-usage-in-farms"
+    }
+  ],
+  [
+    {
+      "title": "Businesses that Need Licence / Registration for Fishing Vessel, Gear & Personnel",
+      "subsection": null,
+      "description": "All inboard fishing vessels and fishing equipment onboard must be licensed by SFA. Individuals employed or engaged in any activity on a fishing vessel must also be registered. Operating a fishing vessel without a licence is an offence.",
+      "licence": "Licence for Import/Export/Transhipment of Meat and Fish Products",
+      "reason_for_licence": "All inboard fishing vessels need to be licensed.",
+      "requirements": "To obtain the required licences/registrations, you must meet certain conditions.",
+      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence / Registration of Fishing Vessel, Fishing Gear, Persons Engaged or Employed on Fishing Vessel, Entry Permit and Port Clearance/Report of Arrival at SFA Fishery Ports.",
+      "other": "Fees for licences vary based on the type of vessel and gear.",
+      "url": "https://www.sfa.gov.sg/wholesale-markets-fishery-ports/licence-registration/businesses-that-need-licence-registration-for-fishing-vessel-gear-personnel"
+    }
+  ],
+  [
+    {
+      "title": "Health Certificate for Export of Live Foodfish for Breeding",
+      "subsection": null,
+      "description": "The Health Certificate for Export of Live Foodfish is issued by Singapore Food Agency that allows exporters to export live food fish for farming. With effect from 14 April 2025, exporters are required to install the new Digital Document Reader (DDR) software to preview the watermarked certificates for printing.",
+      "licence": "Health Certificate for Export of Live Foodfish for Breeding",
+      "reason_for_licence": "This licence is required for exporters to export live food fish for farming.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business",
+      "app_guidance": "Apply on GoBusiness Dashboard. For more details on the installation of the DDR software, refer to the Digital Document Reader Guide. You may refer to the guide on how to fill up the application form on the GoBusiness portal.",
+      "other": "Certificate Fee: $16.80, Express Fee: $33.60. Pre-export inspection charges may also apply.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/singapore-food-agency-(sfa)/health-certificate-for-export-of-live-foodfish-for-breeding"
+    }
+  ],
+  [
+    {
+      "title": "Export Health Certificate",
+      "subsection": null,
+      "description": "The Export Health Certificate is issued to traders, to certify a food consignment as fit for human consumption, and meeting safety standards or other required criteria to facilitate the export of this food consignment. This certificate is only issued for food consignments manufactured or processed or packed in a food processing establishment licensed by Singapore Food Agency.",
+      "licence": "Export Health Certificate",
+      "reason_for_licence": "This certificate is required to certify food consignments for export.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
+      "app_guidance": "Apply on GoBusiness Dashboard. You may refer below for the guide on more details on the installation of the DDR software. FAQs available for application form guidance.",
+      "other": "Certificate Fee: $20.00. Maximum upload per application: 2MB for various document types.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/singapore-food-agency-(sfa)/export-health-certificate"
+    }
+  ],
+  [
+    {
+      "title": "Free Sale Certificate (Food)",
+      "subsection": null,
+      "description": "The Free Sale Certificate (Food) allows exporters to get Singapore Food Agency endorsement for their - Meat and Fish products intended for export. - Locally processed meat and fish products intended for export - Processed food products intended for export. With effect from 14 April 2025, exporters are required to install the new Digital Document Reader (DDR) software to preview the watermarked certificates for printing.",
+      "licence": "Free Sale Certificate (Food)",
+      "reason_for_licence": "This licence is required for exporters to obtain endorsement for food products intended for export.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
+      "app_guidance": "Apply on GoBusiness Dashboard. You may refer to the guide on the steps for application.",
+      "other": "Certificate Fee: $17.11 per certificate. Maximum upload per application: 2MB.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/singapore-food-agency-(sfa)/free-sale-certificate-(food)"
+    }
+  ],
+  [
+    {
+      "title": "Free Sale Certificate (Animal Feed) for Food Producing Animals",
+      "subsection": null,
+      "description": "The Free Sale Certificate for Animal Feed will be issued by the Singapore Food Agency. This certificate allows exporters to get endorsement for these animal feed products intended for export.",
+      "licence": "Free Sale Certificate (Animal Feed) for Food-Producing Animals",
+      "reason_for_licence": "This certificate is required for exporters of animal feed products.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
+      "app_guidance": "Apply on GoBusiness Dashboard. Ensure timely implementation to avoid disruptions to your export operations.",
+      "other": "Certificate Fee: $21.40; Express Fee: $42.80. Maximum upload per application: 2MB for most documents, 5MB for Certificate of Analysis.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Free-Sale-Certificate-(Animal-Feed)-for-Food-Producing-Animals"
+    }
+  ],
+  [
+    {
+      "title": "Veterinary Certificate for Food Producing Animals",
+      "subsection": null,
+      "description": "The Veterinary Certificate will be issued by the Singapore Food Agency. This certificate allows exporters to get endorsement for certification of health and/or testing of the animals for diseases required by the destination country/region.",
+      "licence": "Veterinary Certificate for Food-Producing Animals",
+      "reason_for_licence": "This certificate is required for exporters to certify the health of food-producing animals.",
+      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
+      "app_guidance": "Apply on GoBusiness Dashboard. For more information, refer to the New application user guide and Common modules user guide.",
+      "other": "Certificate Fee: $23.00; Express Fee: $46.00. Maximum upload per application: 2MB. Various document formats accepted.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Veterinary-Certificate-for-Food-Producing-Animals"
+    }
+  ],
+  [
+    {
+      "title": "Submission Form for Food Safety Management System",
+      "subsection": null,
+      "description": "Submission Form for Food Safety Management System",
+      "licence": "Submission Form for Food Safety Management System",
+      "reason_for_licence": "This is a required submission for compliance with food safety management.",
+      "requirements": "N.A.",
+      "app_guidance": "Apply on GoBusiness Dashboard",
+      "other": "GoBusiness is a Whole-of-Government initiative for businesses in Singapore to access Government e-services and resources.",
+      "url": "https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Submission-Form-for-Food-Safety-Management-System"
+    }
+  ],
+  [
+    {
+      "title": "Understanding the Food Safety Management System (FSMS)",
+      "subsection": null,
+      "description": "The FSMS helps food businesses ensure the food they provide is safe for consumption. It is a pre-emptive approach for identifying, preventing, and reducing food-borne hazards.",
+      "licence": "No licence required",
+      "reason_for_licence": "Food businesses are currently not required to submit a certified FSMS.",
+      "requirements": "Catering businesses and those providing catering as an ancillary service must implement a FSMS.",
+      "app_guidance": "You can learn how to prepare and implement a FSMS plan by attending the WSQ Food Safety Course (FSC) Level 4.",
+      "other": "The FSMS can be certified or non-certified.",
+      "url": "https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-safety-management/understanding-food-safety-management-system-fsms"
+    }
+  ],
+  [],
+  [
+    {
+      "title": "Apply for Liquor Licence",
+      "subsection": null,
+      "description": "A liquor licence is required if your company/business/society intends to supply any liquor, unless otherwise exempted under the Liquor Control (Supply and Consumption) Act 2015 section 4(2).",
+      "licence": "Liquor Licence (Singapore Police Force)",
+      "reason_for_licence": "A liquor licence is required for supplying liquor.",
+      "requirements": [
+        "The applicant must fulfill the legal requirements to be granted a liquor licence.",
+        "The premises must be suitable for the supply of liquor."
+      ],
+      "app_guidance": [
+        "Submit a new liquor licence application via GoBusiness.",
+        "Renewal can be done within two months prior to expiry.",
+        "Amendments to the licence can be made for company name, premises, key appointment holders, etc."
+      ],
+      "other": "Failure to obtain a liquor licence can result in fines up to $20,000.",
+      "url": "https://www.police.gov.sg/E-Services/Apply-for-Liquor-Licence"
+    }
+  ],
+  [
+    {
+      "title": "Goods Vehicle and Engineering Plant Registration",
+      "subsection": null,
+      "description": "All vehicles in Singapore, including goods vehicles and engineering plants, must be registered before they can be used or driven on public roads. However, not all registered engineering plants are allowed on public roads.",
+      "licence": "No licence required",
+      "reason_for_licence": "All goods vehicles and engineering plants in Singapore must be registered with LTA before they can be used or driven on public roads.",
+      "requirements": "There are 4 types of goods vehicles: Light Goods Vehicles, Heavy Goods Vehicles, Very Heavy Goods Vehicles, Goods-cum-Passengers Vehicles. Lifespan for goods vehicles is 20 years.",
+      "app_guidance": "1. Through a Motor Dealer or 2. Self-registration at LTA Customer Service Centre. Steps include applying for a Vehicle Approval Code (VAC), submitting documents, paying fees, affixing registration number plates, and displaying side markings for Light Goods Vehicles.",
+      "other": "Registered engineering plants have no lifespan restriction.",
+      "url": "https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/vehicle-types-and-registrations/commercial-vehicle/goods-vehicle-and-engineering-plant.html"
+    }
+  ],
+  [
+    {
+      "title": "Becoming a Hawker",
+      "subsection": null,
+      "description": "Everything you need to know about the regulatory requirements of hawker business. NEA will assist stallholders to apply for their Food Stall Licence as part of tenancy administration. However, if you are a stallholder operating within centres/markets that have the tenancies managed by NEA-appointed Operators, you will need to submit a Food Stall Licence application to SFA.",
+      "licence": "Food Stall Licence",
+      "reason_for_licence": "Stalls selling food items would need to obtain a Food Stall Licence from SFA, except for those under SFA exemptions.",
+      "requirements": "A Singapore Citizen or Permanent Resident; 21 years old and above; Not debarred from holding a SFA hawker licence; Not a former assistant/nominee who was deregistered by NEA; Not banned by the Government/Statutory Boards from taking part in any business tenders; Not renting or a joint operator of two cooked food stalls in markets/hawker centres managed by NEA.",
+      "app_guidance": "Visit GoBusiness to find out about the required licences/certifications. After obtaining a hawker stall, depending on your stall type and type of item sold, you may be required to obtain relevant licences and/or certifications through GoBusiness.",
+      "other": "If you are operating a cooked food stall, you must obtain the Food Safety Course Certificate before the Food Stall Licence can be issued to you.",
+      "url": "https://www.nea.gov.sg/our-services/hawker-management/becoming-a-hawker"
+    }
+  ],
+  [],
+  [
+    {
+      "title": "Tobacco Retail Licence",
+      "subsection": null,
+      "description": "A tobacco retail licence is issued specifically to a particular outlet. If you operate more than one outlet, please make a separate application for each outlet. You are allowed to start retail sales when your licence application is approved. Licences are non-transferrable between companies / outlets.",
+      "licence": "Tobacco Retail Licence (Health Sciences Authority)",
+      "reason_for_licence": "A tobacco retail licence is required to sell tobacco products.",
+      "requirements": "Individuals above MLA who have not committed the offence of selling tobacco products to minors and companies registered with ACRA or licensed by SFA to retail food and beverages.",
+      "app_guidance": "Go to the GoBusiness Licensing website for easy online application. An email notification will be sent once the application is approved or rejected.",
+      "other": "Documents required include NRIC of applicants and tenancy agreement or lease. Maximum upload file size is 2MB for each supporting document.",
+      "url": "https://www.hsa.gov.sg/tobacco-regulation/licences/retail/apply"
+    }
+  ]
+]
