@@ -1,6 +1,6 @@
-streamlit
-numpy
-faiss-cpu
-langchain
-openai
-python-dotenv
+streamlit==1.49.1
+numpy==1.26.4
+faiss-cpu==1.7.4.post2 
+openai==1.109.1
+langchain-openai==0.0.14
+python-dotenv==1.0.0

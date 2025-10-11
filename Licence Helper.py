@@ -1,8 +1,9 @@
 import streamlit as st
+import os
 import json
 import numpy as np
 import faiss
-from langchain.embeddings import OpenAIEmbeddings
+from langchain_openai.embeddings import OpenAIEmbeddings
 from openai import OpenAI
 from dotenv import load_dotenv  
 
@@ -65,12 +66,14 @@ metadata_dict = {meta["chunk_id"]: meta for meta in all_metadata}
 # -------------------------------
 # 4️⃣ Cache heavy resources
 # -------------------------------
+api_key = os.getenv("OPENAI_API_KEY")
+
 @st.cache_resource
 def load_resources():
     X = np.load("data/chunk_embeddings.npy")
     index = faiss.read_index("data/faiss_index.index")
-    embeddings_model = OpenAIEmbeddings()  # uses OPENAI_API_KEY
-    client = OpenAI(api_key=None)          # uses OPENAI_API_KEY
+    embeddings_model = OpenAIEmbeddings(openai_api_key=api_key)
+    client = OpenAI(api_key=api_key)
     return X, index, embeddings_model, client
 
 X, index, embeddings_model, client = load_resources()
@@ -114,49 +117,93 @@ if business_type == "Sale of Food":
         user_profile["food_form"] = followup_answer
 
 # -------------------------------
+# -------------------------------
 # Step 3: Submit and get licence guidance
 # -------------------------------
 if st.button("Get Licence Guidance"):
     status_placeholder = st.empty()
-    status_placeholder.info("🧠 Understanding message...")
+    status_placeholder.info("🧠 Understanding your business...")
 
-    # Build query
-    query_text = f"{business_type} business selling {', '.join(food_types)}"
+    # -------------------------------
+    # Build query text emphasizing business type
+    # -------------------------------
+    query_text = f"Business type: {business_type}. Product sold: {', '.join(food_types)}"
     if "food_form" in user_profile:
-        query_text += f" in the form: {user_profile['food_form']}"
+        query_text += f". Food form: {user_profile['food_form']}"
     if additional_details:
         query_text += f". Additional details: {additional_details}"
 
     # Embed the query
     query_vector = np.array(embeddings_model.embed_query(query_text), dtype=np.float16)
 
-    # Retrieve top chunks
-    top_n = 15
-    D, I = index.search(np.expand_dims(query_vector, axis=0), top_n)
-    retrieved_chunks = [all_chunks[i] for i in I[0]]
-    retrieved_chunks = [chunk[:1000] for chunk in retrieved_chunks[:8]]
+    # -------------------------------
+    # Compute similarity to all chunks
+    # -------------------------------
+    def cosine_similarity(a, b):
+        return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
-    # Craft prompt
-    combined_context = "\n\n".join(retrieved_chunks)
+    similarities = [cosine_similarity(query_vector, emb) for emb in X]
+
+    # -------------------------------
+    # Rank top candidates
+    # -------------------------------
+    top_n = 12
+    sorted_indices = np.argsort(similarities)[::-1]
+    top_indices = sorted_indices[:top_n]
+
+    # -------------------------------
+    # Filter by business type keywords
+    # -------------------------------
+    business_keywords = ["vending machine", "food shop", "retail outlet"]
+    filtered_indices = [
+        i for i in top_indices
+        if any(kw.lower() in all_chunks[i].lower() for kw in business_keywords)
+    ]
+
+    filtered_chunks = [all_chunks[i] for i in filtered_indices]
+    filtered_metadata = [all_metadata[i] for i in filtered_indices]
+
+
+    # Debug: optional print
+    for idx in filtered_indices:
+        meta = all_metadata[idx]
+        st.write(f"Score: {similarities[idx]:.3f}")
+        st.write("Title:", meta["title"])
+        st.write("Licence:", meta.get("licence_name", meta["title"]))
+        st.write("Preview:", all_chunks[idx][:200], "\n---")
+
+    # -------------------------------
+    # Combine filtered chunks into prompt
+    # -------------------------------
+    combined_context = "\n\n".join(filtered_chunks)
+
     prompt = f"""
-    You are a reliable assistant specialising in Singapore government food-related business licensing...
-    (your full prompt continues here exactly as in your original code)
-    """
+You are a knowledgeable assistant for Singapore food business regulations.
 
-    # Clear status before streaming
-    status_placeholder.empty()
-    response_box = st.empty()
-    response_text = ""
+Given the following government-sourced information:
 
-    # Stream GPT output
-    for chunk in client.chat.completions.create(
+{combined_context}
+
+The user wants to open a business with these details:
+Business type: {business_type}
+Product sold: {additional_details}
+
+Instructions:
+- Only list licences, permits, or approvals that are specifically relevant to this type of business and product.
+- Ignore general licences that cover unrelated food types or retail formats.
+- Provide plain-language explanation of why each licence is required.
+- Include step-by-step guidance or application URLs if available.
+"""
+
+    # -------------------------------
+    # Get GPT summary
+    # -------------------------------
+    response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": prompt}],
-        temperature=0,
-        max_tokens=1000,
-        stream=True
-    ):
-        delta = chunk.choices[0].delta
-        if hasattr(delta, "content") and delta.content:
-            response_text += delta.content
-            response_box.write(response_text)
+        temperature=0
+    )
+
+    summary = response.choices[0].message.content
+    st.header("Summary of Required Approvals / Licences")
+    st.write(summary)
