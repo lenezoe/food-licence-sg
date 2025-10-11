@@ -1,6 +1,6 @@
-streamlit
-numpy
-faiss-cpu
+streamlit==1.49.1
+numpy>=1.25,<1.26
+faiss-cpu>=1.12,<1.13
 openai
 langchain-openai
 python-dotenv
