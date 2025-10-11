@@ -8,6 +8,7 @@ from openai import OpenAI
 from dotenv import load_dotenv  
 
 load_dotenv('.env')
+
 # -------------------------------
 # 0️⃣ Streamlit page config
 # -------------------------------
@@ -20,9 +21,10 @@ st.set_page_config(
 # -------------------------------
 # 1️⃣ Login setup
 # -------------------------------
+# Access credentials
 USER_CREDENTIALS = {
-    "john": "MySecret123!",
-    "alice": "AnotherPass456"
+    "main": os.getenv("USER_MAIN"),
+    "alice": os.getenv("USER_ALICE")
 }
 
 # Initialize session state
@@ -162,15 +164,6 @@ if st.button("Get Licence Guidance"):
 
     filtered_chunks = [all_chunks[i] for i in filtered_indices]
     filtered_metadata = [all_metadata[i] for i in filtered_indices]
-
-
-    # Debug: optional print
-    for idx in filtered_indices:
-        meta = all_metadata[idx]
-        st.write(f"Score: {similarities[idx]:.3f}")
-        st.write("Title:", meta["title"])
-        st.write("Licence:", meta.get("licence_name", meta["title"]))
-        st.write("Preview:", all_chunks[idx][:200], "\n---")
 
     # -------------------------------
     # Combine filtered chunks into prompt
