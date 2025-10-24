@@ -1,4 +1,7 @@
+streamlit
 faiss-cpu
-openai
-langchain-openai
+numpy
 python-dotenv
+openai
+langchain
+langchain-openai
