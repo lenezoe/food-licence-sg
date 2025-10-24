@@ -369,7 +369,7 @@ if st.session_state.page == "about":
 elif st.session_state.page == "methodology":
     st.title("🛠️ Methodology: How This Works")
 
-    st.image("App Workflow.JPEG", caption="App Workflow", use_container_width=True)
+    st.image("App Workflow.jpeg", caption="App Workflow", use_container_width=True)
     st.markdown(
         """
         The application follows a multi-step process:
