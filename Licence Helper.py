@@ -507,6 +507,7 @@ if st.session_state.page == "about":
         - Temporary food fairs
         - Food manufacturing and processing facilities  
         - Import, export, and transhipment of food products and animal feed  
+        - Farm production 
 
         ---
 
@@ -651,6 +652,6 @@ elif st.session_state.page == "methodology":
         """
     )
 st.markdown("""
-    > **Note:** This application provides guidance only and does not replace official regulatory advice. Users should consult the relevant government agencies for final approvals.
+    > **Note:** This application provides guidance only and does not replace official regulatory advice. Please consult the relevant government agencies for final approvals.
     """
 )
