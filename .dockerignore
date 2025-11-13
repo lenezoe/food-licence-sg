@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Git files
+.git
+.gitignore
+
+# Environment & secrets
+.env
+
+# Ignore dev container configuration
+.devcontainer/
+
+# OS-specific files
+.DS_Store
+
+# Ignore drafts folder
+drafts/
+
+# cache
+__cache__/
+.cache/
+.tmp/
