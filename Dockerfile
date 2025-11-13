@@ -6,4 +6,4 @@ COPY --chown=app:app . ./
 USER app
 CMD ["bash", "-c", "streamlit run Licence Helper.py --server.port=$PORT"]
 
-# Deploy
+# Deploy .
