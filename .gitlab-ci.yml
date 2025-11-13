@@ -50,7 +50,7 @@ stop_production:
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   needs:
-    - production
+    - production 
   variables:
     AIRBASE_ENVIRONMENT: default
   environment:
