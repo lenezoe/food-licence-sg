@@ -95,6 +95,10 @@ st.sidebar.markdown(
         color: #333;
     }
 
+    .stSelectbox [data-baseweb="select"] div {
+    white-space: normal !important;
+    }
+
     /* Nav link styles */
     .nav-link {
         display: block;
@@ -158,14 +162,14 @@ if st.session_state.page == "main":
             "🍽️ Business Type",
             [
                 "Restaurant / Café / Eatery",
-                "Hawker Stall / Coffeeshop Stall / Food Court Stall",
+                "Hawker / Coffeeshop / Food Court Stall",
                 "Catering Business",
                 "Retail Shop / Supermarket",
-                "Import / Export / Transhipment of Food Products",
+                "Import / Export / Transhipment",
                 "Food Manufacturing / Processing Facility",
                 "Cold Storage / Warehouse",
                 "Farming / Agriculture",
-                "Event-based / Temporary Food Booth",
+                "Event-based / Temporary Booth",
                 "Other"
             ],
             key="business_type_select"
@@ -177,6 +181,7 @@ if st.session_state.page == "main":
             [
                 "Meat or Poultry",
                 "Seafood",
+                "Eggs",
                 "Fruits and Vegetables",
                 "Baked Goods / Pastries",
                 "Beverages (Non-alcoholic)",
@@ -259,8 +264,9 @@ if st.session_state.submitted:
     # STEP 2: Business Classification (prompt chaining stage 1)
     # -------------------------------
     classification_prompt = f"""
-    You are a classification assistant. Categorize the following food business into one or more of these official groups:
-    ["Restaurant / Café / Eatery / Catering", "Food Stall","Import/Export", "Manufacturing", "Temporary Food Fair", "Agriculture", "Cold Storage", "Other"]
+    You are a classification assistant well-versed in Singapore food (e.g. kueh) and business types (e.g. pasar malams). 
+    Categorise the following food business into one or more of these official groups:
+    ["Restaurant / Café / Eatery / Catering", "Food Stall","Import/Export", "Manufacturing", "Temporary Food Fair", "Farming", "Cold Storage", "Other"]
 
     Business details (JSON format):
     {query_text}
@@ -344,10 +350,11 @@ if st.session_state.submitted:
     # STEP 6: Generate Structured Guidance
     # -------------------------------
     system_prompt = """
-    You are "Singapore Food Licence AI", an expert in Singapore's food business licensing.
-    Explain which licences are needed for a given business setup.
-    Use ONLY the context provided in the 'Summary of relevant context' derived from the dataset named 'all_chunks' (with metadata in 'all_metadata').
-    If unsure, respond: "Sorry, we do not have information related to your query. Please refer to GoBusiness (https://www.gobusiness.gov.sg/) for the latest licensing requirements."
+    You are "Singapore Food Licence AI", an expert in Singapore's food and food business licensing.
+    Explain which licences are needed for a given food business setup.
+    Use ONLY the context you have and do not provide information outside the context.
+    If unsure, respond: "Sorry, we do not have information related to your query. Please refer to GoBusiness (https://licensing.gobusiness.gov.sg) for the latest licensing requirements."
+    If relevant URL for the information is unavailable, use https://licensing.gobusiness.gov.sg. 
     """
 
     few_shot_examples = """
@@ -379,8 +386,8 @@ if st.session_state.submitted:
 
     More information on Licences (tabulate):
     Licence Name | Topic | Application Guidance | Webpage
-    Hawker Stall Licence | Food retail | Secure stall via NEA tender, then apply through GoBusiness with tenancy docs and layout plan. | <relevant URL>
-    Basic Food Hygiene Course | Training | Mandatory for stallholders before licence approval. | <relevant URL>
+    Food Stall Licence | Food retail | Secure stall via NEA tender, then apply through GoBusiness with tenancy docs and layout plan. | https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-stall-licence
+    Basic Food Hygiene Course | Training | Mandatory for stallholders before licence approval. | https://licensing.gobusiness.gov.sg
 
     # Note: The second row has no URL because it is not present in the 'all_chunks' dataset.
 
@@ -410,10 +417,10 @@ if st.session_state.submitted:
 
     More information on Licences (tabulate):
     Licence Name | Topic | Application Guidance | Webpage
-    Licence for Import/Export/Transhipment of Meat and Fish Products | Import/export | Apply via GoBusiness Licensing. Applicant must be a registered business in Singapore. | <relevant URL>
+    Licence for Import/Export/Transhipment of Meat and Fish Products | Import/export | Apply via GoBusiness Licensing. Applicant must be a registered business in Singapore. | https://www.sfa.gov.sg/food-import-export/licence-permit-registration/businesses-that-need-licence-permit-registration-for-import-export
     Import Permit (per consignment) | TradeNet | Apply via TradeNet before import. Approved countries and plants only. | https://licensing.gobusiness.gov.sg/e-adviser/imports-and-exports#step-1-activate-your-customs-account-via-tradenet
-    Cargo Clearance Permit | Customs | Used for clearance of approved consignments. | <relevant URL>
-    Cold Storage Licence | Facility | Required if storing frozen/chilled meat locally. | <relevant URL>
+    Cargo Clearance Permit | Customs | Used for clearance of approved consignments. | https://licensing.gobusiness.gov.sg/e-adviser/imports-and-exports
+    Cold Storage Licence | Facility | Required if storing frozen/chilled meat locally. | https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-operate-a-coldstore
 
     Example 3:
     User Input:
@@ -426,7 +433,7 @@ if st.session_state.submitted:
     1. Food Shop Licence (SFA)  
    - Issued by the Singapore Food Agency (SFA).  
    - Required for any fixed food outlet preparing or selling ready-to-eat food, including cafeteria stalls.  
-   - Apply through the [GoBusiness Licensing Portal](<relevant URL>).  
+   - Apply through the [GoBusiness Licensing Portal](https://licensing.gobusiness.gov.sg/licence-directory/muis/halal-certification).  
    - You must submit a layout plan, details of equipment, and ensure the stall passes SFA’s pre-licensing inspection.
 
     2. Halal Certification — Eating Establishment Scheme (Category 1)  
@@ -441,12 +448,12 @@ if st.session_state.submitted:
        • All ingredients and suppliers must be Halal-approved by Muis  
        • Staff must undergo Halal awareness training  
        • Premises and food preparation areas must comply with Halal assurance and segregation guidelines  
-   - Apply directly through the [Muis Halal Certification Portal](<relevant URL>).
+   - Apply directly through the [Muis Halal Certification Portal](https://licensing.gobusiness.gov.sg/licence-directory/muis/halal-certification).
 
     More information on Licences:
     Licence/Certification Name | Topic | Application Guidance | Webpage
-    Food Shop Licence | Food retail | Required for any food stall preparing/selling ready-to-eat food. Apply via GoBusiness. | <relevant URL>
-    Muis Halal Certification (Category 1 — Eating Establishment Scheme) | Halal compliance | Apply via Muis. Applicant must hold a valid SFA licence and meet Halal assurance requirements. | <relevant URL>
+    Food Shop Licence | Food retail | Required for any food stall preparing/selling ready-to-eat food. Apply via GoBusiness. |https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-shop-licence
+    Muis Halal Certification (Category 1 — Eating Establishment Scheme) | Halal compliance | Apply via Muis. Applicant must hold a valid SFA licence and meet Halal assurance requirements. | https://licensing.gobusiness.gov.sg/licence-directory/muis/halal-certification
 
     """
 
@@ -493,52 +500,63 @@ if st.session_state.page == "about":
     st.markdown(
         """
         ### 📌 Overview
-        ***Singapore Food Licence AI*** is a web-based application designed to help food entrepreneurs, retailers, and import/export businesses quickly understand which regulatory approvals and licences they may require. 
-        
-        By leveraging open-source data from government sources, embeddings, and AI-powered synthesis, users receive personalized, actionable guidance in plain language.
-        
+        ***Singapore Food Licence AI*** is a web-based assistant designed to help food entrepreneurs, retailers, and import/export businesses quickly understand the regulatory approvals and licences they may need in Singapore.
+
+        By combining open-source government data, vector-based retrieval, and AI-powered synthesis, the app delivers personalised, easy-to-understand guidance within seconds.
+
+         ⚡ **Key Features**
+        - **Interactive Business Form:** A simple and intuitive interface that captures your business type, food categories, and operational details.
+        - **Personalised Licence Guidance:** Generates tailored recommendations based on your specific business activities.
+        - **AI-Powered Summaries:** Uses GPT-4o-mini to transform complex regulations into clear, plain-language explanations.
+        - **Smart Search & Retrieval:** Combines keyword search with vector-based similarity to surface the most relevant information quickly and accurately.
+
         ---
 
         ### 📝 Project Scope
-        This application covers a wide range of food-related businesses, including:
+        This application supports a broad range of food-related businesses, including:
+
         - Restaurants, cafés, and food stalls  
         - Retail shops and supermarkets  
-        - Catering
-        - Temporary food fairs
+        - Catering services  
+        - Temporary food fairs and event-based food booths  
         - Food manufacturing and processing facilities  
-        - Import, export, and transhipment of food products and animal feed  
-        - Farm production 
+        - Import, export, and transhipment of food products  
+        - Agriculture and farm production  
 
         ---
 
         ### 🎯 Project Objectives
-        - Deliver **accurate, up-to-date guidance** on licences and approvals.  
-        - Make regulatory information **accessible and understandable** for small and medium food enterprises.  
-        - Enable **efficient discovery** of relevant regulations using AI-powered search and summarization.  
-        - Reduce the time and effort required for business owners to **identify required approvals**.
+        - Provide **accurate and up-to-date** information on licences and approvals  
+        - Make complex regulatory requirements **clear and accessible**  
+        - Help businesses **quickly identify** relevant licences  
+        - Reduce manual effort and confusion when navigating food-related regulations  
 
         ---
 
         ### 📂 Data Sources
-        The underlying data comes from information on **licences, permits, and approvals** in **official Singapore government websites**, including:
-        - [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/)  
-        - [Majlis Ugama Islam Singapura (MUIS)](https://www.muis.gov.sg/)  
-        - [National Environment Agency (NEA)](https://www.nea.gov.sg/)  
-        - [Singapore Police Force (SPF)](https://www.police.gov.sg/) 
-        - [GoBusiness Licensing portal](https://www.gobusiness.gov.sg/)
+        All information is derived from official Singapore government websites, including:
 
-        The data is **scraped, cleaned, and structured** into JSON chunks for downstream AI processing.
+        - Singapore Food Agency (SFA)  
+        - Majlis Ugama Islam Singapura (MUIS)  
+        - National Environment Agency (NEA)  
+        - Singapore Police Force (SPF)  
+        - GoBusiness Licensing Portal  
+
+        The data is scraped, cleaned, and structured into machine-readable JSON for AI processing.
 
         ---
 
-        ### ⚡ Key Features
-        - **Interactive Business Form:** Collects business type, food types, and other relevant details.  
-        - **Intelligent Licence Guidance:** Personalized recommendations based on user input.  
-        - **AI Summarization:** GPT-4o-mini generates plain-language explanations for licences.  
-        - **Search & Filtering:** Keyword-based and vector similarity retrieval for precision.  
-        - **Secure Login:** User authentication ensures data privacy.  
-        - **Transparent Methodology:** Users can view the methodology page to understand how guidance is generated.
+        ### 🚀 Potential Future Directions
+        - **Automated Data Pipeline:**  
+        Implement an automated system that continually monitors and re-checks the relevancy, accuracy, and status of source websites—ensuring that the application always reflects the latest regulatory updates.  
+        - **Expanded Dataset Coverage:**  
+        Incorporate more agency sources, permit categories, and cross-agency workflows.  
+        - **Scenario-Based Guidance:**  
+        Provide guidance tailored to business stages such as pre-launch, renovation, expansion, and relocation.
+        - **Enhanced Interface:**  
+        Introduce step-by-step workflows, interactive charts, and integrated agency links for an even smoother user experience.
 
+        ---
         """
     )
 # -------------------------------
