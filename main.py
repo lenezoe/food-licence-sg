@@ -18,6 +18,7 @@ load_dotenv('.env')
 # 0️⃣ Streamlit page config
 # -------------------------------
 st.set_page_config(
+    page_title="Singapore Food Licence AI",  
     layout="centered"
 )
 
