@@ -5,22 +5,22 @@
       "subsection": "Eating Establishment Scheme (Category 1)",
       "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Eating Establishment Scheme (Category 1)",
       "description": "This document is provided for the application for Halal Certification by the Majlis Ugama Islam Singapura with effect from 1 October 2025. The Eating Establishment scheme (Category 1) is applicable to the operation of the following types of retail food establishments in Singapore: Hawker Stalls, Snack bars / Bakeries, School Canteen Stalls, Short-term Stalls.",
-      "reason_for_licence": "All companies / establishments applying for a Halal certification from Majlis Ugama Islam Singapura (MUIS) must comply with the MUIS Halal Certification Conditions.",
+      "reason_for_licence": "All companies / establishments applying for a Halal certification from Majlis Ugama Islam Singapura (MUIS) may, upon fully complying with the MUIS Halal Certification Conditions, be issued a MUIS Halal certificate.",
       "requirements": "The applicant shall read, understand and agree to adhere to the MUIS Halal Certification Conditions upon submission of the application. The applicant shall ensure that there is no cross-mixing of Halal and non-Halal food and ingredients. The applicant shall engage at least 1 permanent Muslim personnel.",
-      "app_guidance": "The processing of application shall commence within 14 working days from the date of payment for New (normal) processing application. The applicant shall submit a New application if its current outlet has not been previously Halal-certified by MUIS.",
-      "other": "MUIS reserves the right to suspend or revoke the Halal certificate with immediate effect upon acknowledgement / written notice to the certificate holder if any conditions are breached.",
+      "app_guidance": "The processing of application shall commence within 14 working days from the date of payment for New (normal) processing application. The applicant shall access the application portal regularly for information on application status and Request For Action notices.",
+      "other": "MUIS reserves the right to suspend or revoke the Halal certificate with immediate effect upon acknowledgement / written notice to the certificate holder, in the event that the certificate holder is found to have breached any of the MUIS Halal Certification Conditions.",
       "url": "https://file.go.gov.sg/hcc-eec1.pdf"
     }
   ],
   [
     {
-      "title": "MUIS Halal Certification Conditions",
+      "title": "MUIS Halal Certification Conditions HCC PWP (Version 4.0)",
       "subsection": "Product / Whole Plant Scheme",
       "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Product / Whole Plant Scheme",
       "description": "This document is provided for the application for Halal Certification by the Majlis Ugama Islam Singapura with effect from 01 October 2025.",
       "reason_for_licence": "Companies applying for Halal certification must comply with MUIS Halal Certification Conditions.",
-      "requirements": "The applicant shall read, understand and agree to adhere to the MUIS Halal Certification Conditions upon submission of the application. The applicant shall ensure that there is no cross-mixing of Halal and non-Halal food and ingredients.",
-      "app_guidance": "The processing of application shall commence within 14 working days from the date of payment for New (normal) application; within 7 working days from the date of payment for New (express) application.",
+      "requirements": "The applicant shall read, understand and agree to adhere to the MUIS Halal Certification Conditions upon submission of the application.",
+      "app_guidance": "The processing of application shall commence within 14 working days from the date of payment for New (normal) application.",
       "other": "MUIS may conduct unannounced periodic inspections as and when necessary following the award of the Halal certificate.",
       "url": "https://file.go.gov.sg/hcc-pwp.pdf"
     }
@@ -28,12 +28,12 @@
   [
     {
       "title": "MUIS Halal Certification Conditions - Poultry Scheme",
-      "subsection": null,
+      "subsection": "Poultry Scheme",
       "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Poultry Scheme",
       "description": "The Poultry scheme shall be applicable to selected fresh whole poultry which is slaughtered in Singapore. The scope of certification shall include: (a) poultry feed; (b) transporting, receiving, stunning, slaughtering, scalding, de-feathering, evisceration, labelling, sorting and storage of poultry.",
-      "reason_for_licence": "The Poultry scheme is specifically for fresh whole poultry slaughtered in Singapore.",
-      "requirements": "The applicant shall ensure and provide documentation to prove the poultry are grain/corn fed and not injected with any hormones while breeding. The applicant shall also apply for additional schemes if processing, packing, or selling cut poultry pieces.",
-      "app_guidance": "The processing of application shall commence within 14 working days from the date of payment for New (normal) processing application. The applicant must access the application portal regularly for information on application status and be prepared for a site audit by MUIS after operations commence.",
+      "reason_for_licence": "The applicant must comply with MUIS Halal Certification Conditions to obtain a Halal certificate.",
+      "requirements": "The applicant shall ensure and provide documentation to prove the poultry are grain/corn fed and not injected with any hormones while breeding. The applicant shall also apply for additional schemes if necessary, such as Product scheme for processing cut poultry pieces.",
+      "app_guidance": "The processing of application shall commence within 14 working days from the date of payment for New (normal) processing application. The applicant shall access the application portal regularly for information on application status.",
       "other": "The Halal certificate is valid for the period stipulated on the certificate and shall not be displayed outside the certified premises.",
       "url": "https://file.go.gov.sg/hcc-pa.pdf"
     }
@@ -44,9 +44,9 @@
       "subsection": "Endorsement Scheme",
       "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Endorsement Scheme",
       "description": "The Endorsement scheme shall be applicable to: 1. Imported finished product for sale in as-is condition, in respect of which a Halal certificate has been issued by MUIS-recognised foreign Halal certification body; 2. Exporting Singapore origin, finished product, in respect of which a Halal certificate has been issued by MUIS; 3. Exporting in as-is condition, imported finished product, in respect of which a Halal certificate has been issued by a foreign Halal certification body that is recognised by MUIS and the exporting country.",
-      "reason_for_licence": "The Endorsement scheme is required for specific products to ensure compliance with Halal standards.",
-      "requirements": "The applicant shall be adequately licensed by the competent food safety authority; ensure no cross-mixing of Halal and non-Halal food; all products in the shipment applied for Halal Endorsement shall be Halal-certified by MUIS or MUIS-recognised Halal certification bodies.",
-      "app_guidance": "New application submission shall be made 14 or 7 working days prior to the scheduled departure/arrival of products from/into Singapore.",
+      "reason_for_licence": "The MUIS Halal Endorsement is required for specific products to ensure compliance with Muslim law.",
+      "requirements": "The applicant shall be adequately licensed by the competent food safety authority. All products in the shipment applied for Halal Endorsement shall be Halal-certified by MUIS if manufactured locally or MUIS-recognised Halal certification bodies in the country where it is manufactured.",
+      "app_guidance": "The applicant shall submit a New application for every shipment / consignment and ensure all documentation required for the purpose of Halal Endorsement are made available.",
       "other": "The Halal endorsement letter is valid until the expiry of product(s) in the respective shipment and is not renewable.",
       "url": "https://file.go.gov.sg/hec-en.pdf"
     }
@@ -57,10 +57,10 @@
       "subsection": "Storage Facility Scheme",
       "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Storage Facility Scheme",
       "description": "This document is provided for the application for Halal Certification by the Majlis Ugama Islam Singapura with effect from 01 October 2025. The Storage Facility scheme shall be applicable to storage facility, warehouse, dishwashing facility or any section thereof in Singapore.",
-      "reason_for_licence": "Halal certification is required for storage facilities handling Halal products.",
-      "requirements": "The applicant shall ensure that there is no cross-mixing of Halal and non-Halal food and ingredients. The applicant shall engage at least 1 permanent Muslim personnel, appointed as the Halal Assurance Officer.",
-      "app_guidance": "The applicant shall submit a New application if its current location has not been previously Halal-certified by MUIS or if there is a change in ownership, name, or address of certified premises.",
-      "other": "MUIS may conduct unannounced periodic inspections as necessary following the award of the Halal certificate.",
+      "reason_for_licence": "The Halal certification is required to ensure compliance with Muslim law in the storage and handling of Halal products.",
+      "requirements": "The applicant shall ensure that there is no cross-mixing of Halal and non-Halal food and ingredients. The applicant shall only receive Halal food that have been declared to MUIS and store the Halal food on the racks or within the section(s) certified by MUIS.",
+      "app_guidance": "The processing of application shall commence within 14 working days from the date of payment for New (normal) application; within 7 working days from the date of payment for New (express) application.",
+      "other": "The Halal certificate is valid for the period stipulated on the certificate and shall not be displayed outside the certified premises.",
       "url": "https://file.go.gov.sg/hcc-sf.pdf"
     }
   ],
@@ -70,10 +70,10 @@
       "subsection": "Food Preparation Area Scheme",
       "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Food Preparation Area Scheme",
       "description": "This document is provided for the application for Halal Certification by the Majlis Ugama Islam Singapura with effect from 01 October 2025. The Food Preparation Area scheme shall be applicable to catering companies, central kitchen facilities, and pre-school kitchens.",
-      "reason_for_licence": "The Halal certification is required for food preparation areas to ensure compliance with Muslim law.",
-      "requirements": "The applicant must comply with MUIS Halal Certification Conditions, including having a Halal team, ensuring no cross-mixing of Halal and non-Halal food, and maintaining proper documentation.",
-      "app_guidance": "Applicants must submit a New application if their outlet has not been previously Halal-certified, or if there are changes in ownership or business details. The application process includes site audits and compliance checks.",
-      "other": "The Halal certificate is valid for the period stipulated on the certificate and must not be displayed beyond its expiry date.",
+      "reason_for_licence": "All companies/establishments applying for a Halal certification from Majlis Ugama Islam Singapura (MUIS) may, upon fully complying with the MUIS Halal Certification Conditions, be issued a MUIS Halal certificate.",
+      "requirements": "The applicant shall read, understand and agree to adhere to the MUIS Halal Certification Conditions upon submission of the application. The applicant shall ensure that there is no cross-mixing of Halal and non-Halal food and ingredients.",
+      "app_guidance": "The processing of application shall commence within 14 working days from the date of payment for New (normal) application; within 7 working days for New (express) application.",
+      "other": "The applicant shall establish a Halal team for its premises, and the Halal Assurance Officer must be a Muslim with a valid Halal Competency Assessment certificate.",
       "url": "https://file.go.gov.sg/hcc-fpa.pdf"
     }
   ],
@@ -83,22 +83,22 @@
       "subsection": null,
       "licence": "Registration to Import Animal Feed",
       "description": "Businesses that want to import animal feed for food-producing animals (e.g. live chickens and fish) must register with SFA and obtain a Cargo Clearance Permit (CCP) issued by Singapore Customs for each consignment.",
-      "reason_for_licence": "Registration is required to ensure compliance with food safety regulations.",
+      "reason_for_licence": "To import animal feed for food-producing animals, registration is mandatory to ensure compliance with food safety regulations.",
       "requirements": "Must be registered with ACRA, activate UEN with Singapore Customs, set up a GIRO arrangement with SFA, and ensure animal feed complies with SFA’s requirements.",
       "app_guidance": "Log into the GoBusiness portal to submit your Registration to Import Animal Feed. Complete applications are processed within 1 working day.",
-      "other": "Animal feed sold in Singapore must be packaged and labelled in English, with specific information indicated on the packaging.",
+      "other": "Animal feed sold in Singapore must be packaged and labelled in English, including the manufacturer's name, ingredients, and nutritional information.",
       "url": "https://www.sfa.gov.sg/food-import-export/commercial-imports/what-you-need-to-know-for-import-of-animal-feed"
     }
   ],
   [
     {
       "title": "What You Need to Know for Export / Tranship of Animal Feed for Food-Producing Animals",
-      "subsection": null,
-      "licence": "Registration to Import Animal Feed",
-      "description": "Businesses that want to export or tranship animal feed for food-producing animals must have a Cargo Clearance Permit (CCP) for each consignment. The CCP is equivalent to a SFA export or transhipment permit granted by SFA.",
-      "reason_for_licence": "A Cargo Clearance Permit (CCP) is required for exporting or transhipping animal feed.",
-      "requirements": "Registration with ACRA is mandatory, and your UEN must be activated with Customs. If the animal feed is regulated by SFA, a GIRO arrangement with SFA must be set up.",
-      "app_guidance": "Apply for a Cargo Clearance Permit (CCP) through TradeNet for each consignment. Ensure correct HS codes and attach supporting documents.",
+      "subsection": "Licence, Permit & Registration",
+      "licence": "Licence to Manufacture Animal Feed and Process of Animal Feed for Food-Producing Animals",
+      "description": "Businesses that want to export or tranship animal feed must have a Cargo Clearance Permit (CCP) issued by Singapore Customs for each consignment, which incorporates SFA’s requirements. Animal feed that is manufactured or processed locally must be manufactured or processed by a SFA-approved establishment holding a valid Licence to Manufacture and Process Animal Feed from SFA.",
+      "reason_for_licence": "Animal feed for food-producing animals must be manufactured or processed by a SFA-approved establishment.",
+      "requirements": "Registration with ACRA is mandatory, and your UEN must be activated with Customs. If the animal feed is regulated by SFA, you must set up a GIRO arrangement with SFA.",
+      "app_guidance": "Apply for a Cargo Clearance Permit (CCP) through TradeNet for each consignment. Ensure you enter the correct HS codes and attach the supporting documents to your application.",
       "other": "Approval by SFA is processed within 1 working day. Fees for animal feed are $22 per consignment.",
       "url": "https://www.sfa.gov.sg/commercial-exports/what-you-need-to-know-for-export-tranship-of-animal-feed"
     }
@@ -111,8 +111,8 @@
       "description": "Licence for Import/Export/Transhipment of Meat and Fish Products is required if Traders involved in the import/export/transshipment of meat and fish products.",
       "reason_for_licence": "Traders involved in the import/export/transshipment of meat and fish products require this licence.",
       "requirements": "1. Top Up CPF MediSave. 2. Activate UEN with Singapore Customs. 3. Submit original GIRO form.",
-      "app_guidance": "Apply as a Business User with a UEN-registered company/entity or as a Third Party Filer for Business. Estimated processing time is 1 working day.",
-      "other": "Licence Fee: $84.00. Payment Methods: American Express, Diners Club, JCB, Mastercard, UnionPay, Visa, PayNow, GIRO.",
+      "app_guidance": "Apply as a Business User with a UEN-registered company/entity or as a Third Party Filer for Business.",
+      "other": "Estimated processing time is 1 working day. Licence is valid for 1 year. Licence fee is $84.00.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-for-importexporttranshipment-of-meat-and-fish-products"
     }
   ],
@@ -121,11 +121,11 @@
       "title": "Licence for Import/Transhipment of Fresh Fruits and Vegetables",
       "subsection": null,
       "licence": "Licence for Import/Transhipment of Fresh Fruits and Vegetables",
-      "description": "Licence for Import/Transhipment of Fresh Fruits and Vegetables is required if Traders involved in the import/transshipment of fresh fruits and vegetables.",
+      "description": "Licence for Import/Transhipment of Fresh Fruits and Vegetables is required if Traders involved in the import/transshipment of fresh fruits and vegetables. Licence Pre-requisites: 1.Top Up CPF MediSave. 2.Activate UEN with Singapore Customs. 3.Submit original GIRO form.",
       "reason_for_licence": "Traders involved in the import/transshipment of fresh fruits and vegetables must obtain this licence.",
       "requirements": "1. Top Up CPF MediSave. 2. Activate UEN with Singapore Customs. 3. Submit original GIRO form.",
-      "app_guidance": "Application is available for third party filers. Estimated processing time is 1 working day. 30 minutes to complete.",
-      "other": "Licence Fee: $378.00. Payment Methods: American Express, Diners Club, JCB, Mastercard, UnionPay, Visa, PayNow, GIRO.",
+      "app_guidance": "Estimated processing time is 1 working day. 30 minutes to complete. Apply on GoBusiness.",
+      "other": "Applicable for Business users only. Application is available for third party filers (Business).",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-for-importtranshipment-of-fresh-fruits-and-vegetables"
     }
   ],
@@ -136,9 +136,9 @@
       "licence": "Licence to Import Poultry",
       "description": "The Licence to Import Poultry is issued to importers by Singapore Food Agency to import Broiler Chickens and Broiler Ducks.",
       "reason_for_licence": "This licence is required for businesses importing poultry products.",
-      "requirements": "Business User: A UEN-registered company/entity with Corppass. No supporting documents required.",
-      "app_guidance": "Estimated processing time is 1 working day. Apply on GoBusiness. For enquiries, contact the agency at https://www.sfa.gov.sg/contact-us.",
-      "other": "Application is not available for third party filers.",
+      "requirements": "A UEN-registered company/entity with Corppass. No supporting documents required.",
+      "app_guidance": "Estimated processing time is 1 working day. Application is not available for third party filers. Apply on GoBusiness.",
+      "other": "No Payment Required. You may withdraw your application at any time after submitting.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-import-poultry"
     }
   ],
@@ -148,9 +148,9 @@
       "subsection": null,
       "licence": "Licence to Import Sheep & Goats",
       "description": "The Licence to Import Sheep and Goats is issued to importers by Singapore Food Agency to import Sheep and Goats.",
-      "reason_for_licence": "This licence is required for businesses looking to import sheep and goats into Singapore.",
+      "reason_for_licence": "This licence is required for importers to legally import sheep and goats into Singapore.",
       "requirements": "You may apply as a Business User: A UEN-registered company/entity with Corppass. Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
-      "app_guidance": "Estimated processing time is 1 working day. 30 minutes to complete. You may refer below for the guide on the steps for application.",
+      "app_guidance": "Estimated processing time is 1 working day. 30 minutes to complete. You may not be required to attach any documents to submit this application. The agency will contact you should they require any documents from you.",
       "other": "Application is not available for third party filers.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-import-sheep--goats"
     }
@@ -161,10 +161,10 @@
       "subsection": null,
       "licence": "Licence to Import Table Eggs",
       "description": "The Licence to Import Table Eggs is issued to importers by Singapore Food Agency to import Table Eggs.",
-      "reason_for_licence": "This licence is required for businesses looking to import table eggs into Singapore.",
+      "reason_for_licence": "This licence is required for importers to legally import table eggs into Singapore.",
       "requirements": "Eligibility Requirements: A UEN-registered company/entity with Corppass. Prerequisite Licence(s): ACRA - Registration for Companies / Business, SFA - Licence to Operate a Food Processing Establishment.",
-      "app_guidance": "Estimated processing time is 1 working day if application is complete and in order. 30 minutes to complete. Apply on GoBusiness.",
-      "other": "You may not be required to attach any documents to submit this application. The agency will contact you should they require any documents from you.",
+      "app_guidance": "Estimated processing time is 1 working day if application is complete and in order. Apply on GoBusiness.",
+      "other": "No Payment Required. You may withdraw your application at any time after submitting.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-import-table-eggs"
     }
   ],
@@ -175,8 +175,8 @@
       "licence": "Licence to Import/Export/Tranship Food Animals, Birds, Eggs and Biologics",
       "description": "The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics is issued by Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore.",
       "reason_for_licence": "This licence is required for importing/exporting/transhipping animals, birds, or their products.",
-      "requirements": "You may apply as a Business User: A UEN-registered company/entity with Corppass. Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
-      "app_guidance": "Estimated processing time is 1 working day. Application is not available for third party filers. Apply on GoBusiness.",
+      "requirements": "Business User: A UEN-registered company/entity with Corppass. Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
+      "app_guidance": "Estimated processing time is 1 working day. 30 minutes to complete. Apply on GoBusiness.",
       "other": "You may not be required to attach any documents to submit this application. The agency will contact you should they require any documents from you.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-importexporttranship-food-animals-birds-eggs-and-biologics"
     }
@@ -202,8 +202,8 @@
       "description": "The Registration to Import Feed for Food Producing Animals is issued by Singapore Food Agency. This registration is issued to importers to import animal feed.",
       "reason_for_licence": "This registration is required for importers to import animal feed for food-producing animals.",
       "requirements": "You may apply as a Business User: A UEN-registered company/entity with Corppass.",
-      "app_guidance": "Estimated processing time is 1 working day. 30 minutes to complete. Apply on GoBusiness.",
-      "other": "You may not be required to attach any documents to submit this application. The agency will contact you should they require any documents from you.",
+      "app_guidance": "Estimated processing time is 1 working day. Application is not available for third party filers. You may refer to the guide on the steps for application.",
+      "other": "No Payment Required. You may withdraw your application at any time after submitting.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/registration-to-import-feed-for-food-producing-animals"
     }
   ],
@@ -213,7 +213,7 @@
       "subsection": null,
       "licence": "Rice Licence",
       "description": "A licence issued by the Singapore Food Agency (SFA) is required to import (into Singapore or Singapore Free Trade Zone), export and carry out wholesale dealings in rice.",
-      "reason_for_licence": "A licence is required to import, re-export and carry on wholesale dealings in rice.",
+      "reason_for_licence": "A licence is required to import, export and carry on wholesale dealings in rice.",
       "requirements": "You may apply as a Business User: A UEN-registered company/entity with Corppass.",
       "app_guidance": "Estimated processing time is 3 working days upon receipt of completed application. Applicant will be notified through email upon successful processing of their application within 3 working days.",
       "other": "You may not be required to attach any documents to submit this application. The agency will contact you should they require any documents from you.",
@@ -228,21 +228,32 @@
       "licence": "Food Shop Licence",
       "description": "Food Shops include bakeries, restaurants, food vending machines, canteens, coffee shops, eating houses, food courts, standalone kiosks, takeaway food carts, and private canteens/markets.",
       "reason_for_licence": "Food Shops must have a Food Shop Licence to operate.",
-      "requirements": "The requirements and conditions for Food Shop Licences can be found in the Food Shop Self-Checklist. Operators of Food Shops offering self-service buffets must provide hand sanitisers or disposable gloves.",
+      "requirements": "Operators must comply with the Food Shop Self-Checklist, provide hand sanitisers or disposable gloves for self-service buffets, and submit an Environmental Sanitation Programme if required.",
       "app_guidance": "Singapore citizens, permanent residents, societies registered with MHA, or entities registered with ACRA can apply for this licence.",
-      "other": "Specific types of Food Shops, such as Pet Cafes, Mobile Food Wagons, and Mini Restaurants have specific requirements.",
+      "other": "Specific types of Food Shops, such as Pet Cafes, Mobile Food Wagons, and Mini Restaurants have additional requirements.",
       "url": "https://www.sfa.gov.sg/food-retail/licence-permit/requirements-for-licence-permit-for-food-retail"
     },
     {
-      "title": "Temporary Fair Permit Requirements",
-      "subsection": "Requirements for Temporary Fair Permits",
-      "licence": "Permit for Temporary Fair",
-      "description": "Temporary Fairs are events where stalls sell merchandise, food or drinks. To operate such fairs, you must have a permit from SFA.",
-      "reason_for_licence": "Operating Temporary Fairs illegally without a valid permit is an offence.",
-      "requirements": "You must submit your application at least 2 weeks before the fair start date and provide necessary documents including a layout plan and support documentation.",
-      "app_guidance": "You must have CorpPass or SingPass to submit the application for a permit.",
-      "other": "Operators are required to comply with the Environmental Public Health (Food Hygiene) Regulations.",
+      "title": "No licence required for certain food stalls",
+      "subsection": "Exemptions for Food Stall Licences",
+      "licence": "No licence required Food Stall Licence",
+      "description": "From 1 January 2025, operators of market stalls selling food items of lower regulatory concern, such as pre-packed food, will not require a SFA licence.",
+      "reason_for_licence": "The sale of these food items at market stalls are assessed to be of lower regulatory concern.",
+      "requirements": "Operators must have signed a tenancy agreement with the National Environment Agency or its managing agent.",
+      "app_guidance": "New stall holders selling food items of lower regulatory concern can commence operation after signing the tenancy agreement.",
+      "other": "Existing operators do not require a SFA licence and can continue operation after renewing their tenancy agreement.",
       "url": "https://www.sfa.gov.sg/food-retail/licence-permit/requirements-for-licence-permit-for-food-retail"
+    },
+    {
+      "title": "Requirements for Supermarket Licences",
+      "subsection": "Requirements for Supermarket Licences",
+      "licence": "Supermarket Licence",
+      "description": "Supermarkets that sell raw meat or seafood, or conduct on-site preparation of food for sale require a SFA licence to operate.",
+      "reason_for_licence": "Supermarkets must have a licence if they sell raw meat or seafood or conduct on-site food preparation.",
+      "requirements": "There are documentary, design and other requirements outlined in the Supermarket Self-Checklist.",
+      "app_guidance": "Singapore citizens, permanent residents, societies registered with MHA, or entities registered with ACRA can apply for this licence.",
+      "other": "Retailers that solely sell pre-packed food do not require SFA food retail licences.",
+      "url": "https://www.sfa.gov.sg/food-retail/licence-permit/requirements-for-supermarket-licences"
     }
   ],
   [
@@ -250,11 +261,11 @@
       "title": "Types of Online Food Businesses",
       "subsection": null,
       "licence": "No licence required",
-      "description": "All types of food businesses, whether online or physical, must comply with prevailing food laws and regulations. This also applies to food businesses that do not require a licence from SFA to operate, such as e-commerce platforms and organisers of group buys.",
+      "description": "SFA regulates all types of food businesses in Singapore, including online food businesses. This also applies to food businesses that do not require a licence from SFA to operate, such as e-commerce platforms and organisers of group buys.",
       "reason_for_licence": "E-commerce platforms and organisers of group buys do not require a licence to operate.",
-      "requirements": "Must comply with prevailing food laws and regulations.",
+      "requirements": "All types of food businesses, whether online or physical, must comply with prevailing food laws and regulations.",
       "app_guidance": "For more details, see Requirements for Online Food Sellers.",
-      "other": "SFA has developed industry standards for the sale of food products on online platforms and delivery of RTE food.",
+      "other": "The sale of food that is unsafe, unsuitable, or unfit for consumption is prohibited.",
       "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/online-food-businesses/types-of-online-food-businesses"
     }
   ],
@@ -262,12 +273,12 @@
     {
       "title": "Home-based Food Businesses",
       "subsection": null,
-      "licence": "No licence required",
-      "description": "The Home-based Business Scheme enables anyone to run a small-scale business, including a food business, from their home, provided they comply with the requirements and conditions.",
-      "reason_for_licence": "This scheme allows home-based businesses to operate without requiring approval from the HDB or Urban Redevelopment Authority (URA), provided they meet all the scheme's requirements.",
-      "requirements": "All home-based food businesses must comply with food rules and regulations and follow the guidelines on good food safety practices provided by SFA.",
-      "app_guidance": "For more details, see: Requirements for Home-based Food Businesses.",
-      "other": "Home-based food businesses are not allowed to sell their food to food retailers and should not offer ready-to-eat raw seafood.",
+      "licence": "No licence required Food Shop Licence",
+      "description": "The Home-based Business Scheme enables anyone to run a small-scale business, including a food business, from their home, provided they comply with the requirements and conditions. Home-based food businesses must comply with food rules and regulations and are not allowed to sell their food to food retailers, such as hawker stalls, restaurants, coffee shops, cafes, canteens, temporary fair stalls and similar establishments licensed by the SFA.",
+      "reason_for_licence": "Home-based food businesses do not require an SFA licence to operate.",
+      "requirements": "Must comply with food safety laws and guidelines on good food safety practices provided by SFA.",
+      "app_guidance": "No approval from HDB or URA is required if all scheme's requirements are met.",
+      "other": "Specific restrictions apply, such as not selling ready-to-eat raw seafood.",
       "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/home-based-food-businesses/about-hdb-ura-home-based-business-scheme"
     }
   ],
@@ -280,7 +291,7 @@
       "reason_for_licence": "Food delivery businesses do not require a licence from the SFA to operate.",
       "requirements": "Operators must ensure that the way in which food is delivered to customers does not compromise food safety.",
       "app_guidance": "Food delivery service providers can follow the Guidelines on the delivery of RTE food (Singapore Standard SS 672:2021).",
-      "other": "The standard is not mandatory but helps improve food safety and maintain the quality and integrity of food products.",
+      "other": "The standard is not mandatory but improves food safety and helps maintain the quality and integrity of food products.",
       "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/food-delivery-businesses/requirements-for-food-delivery-businesses"
     }
   ],
@@ -292,7 +303,7 @@
       "description": "Group buys are private arrangements among members of a group and do not require a licence from SFA. For example, when you gather a few friends and place an order with a licensed food supplier in Singapore to get a better price, you do not need a licence.",
       "reason_for_licence": "Group buying is a type of online food business where an organiser buys food in bulk for group members to get lower prices or other perks.",
       "requirements": "Every food business, no matter how small or informal, must follow the prevailing food safety laws to ensure that food is safe for everyone.",
-      "app_guidance": "Educate and raise awareness among your group members about the need to practise good food safety practices.",
+      "app_guidance": "You must still comply with the law and ensure food safety.",
       "other": "Certain activities involving food products require a licence from SFA, such as importing meat to sell.",
       "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/group-buy-activities/guidelines-for-group-buy-organisers"
     }
@@ -304,9 +315,9 @@
       "licence": "Food Shop Licence",
       "description": "For the operation of a food shop where there is retail sale of food and/or beverage. You will need to apply for a Food Shop Licence if you intend to operate a retail food outlet where food and/or drink are sold wholly by retail.",
       "reason_for_licence": "The purpose of licensing is to ensure cleanliness and food safety in food retail outlets and to prevent food-borne diseases.",
-      "requirements": "Complete all fields on the application form, submit the layout plan with specified details, and obtain In-Principle Approval before renovation.",
-      "app_guidance": "Apply on GoBusiness, obtain In-Principle Approval, commence renovation, request for inspection, and complete payment for licence.",
-      "other": "Estimated processing time is 7 working days if application is complete and in order. The licence costs S$195.00 and is valid for one year.",
+      "requirements": "Complete all fields on the application form, submit the layout plan with provisions for kitchen equipment, boundaries of refreshment area, and obtain In-Principle Approval before renovation.",
+      "app_guidance": "Step 1: Obtain In-Principle Approval, Step 2: Commence Renovation & Set-up, Step 3: Request for Inspection, Step 4: Complete Payment for Licence.",
+      "other": "The Food Shop Licence costs S$195.00 and is valid for one year.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-shop-licence"
     }
   ],
@@ -316,7 +327,7 @@
       "subsection": null,
       "licence": "Food Stall Licence",
       "description": "For the operation of a foodstall where there is retail sale of food and/or beverage in a foodshop such as private eating houses, coffeeshops, food courts, canteens and private markets.",
-      "reason_for_licence": "A hawker stall licence is required to operate a food stall in NEA managed food centres/markets.",
+      "reason_for_licence": "A hawker stall licence is required to operate a food stall in a NEA managed food centre/market.",
       "requirements": "Submit application in GoBusiness, tenancy/lease agreement with Certificate of Stamp Duty, layout plan of the stall, and Food Safety Course Level 1 certificate.",
       "app_guidance": "Apply through GoBusiness, ensure all documents are complete, and payment must be made within 28 days after notification.",
       "other": "Validity is 1, 2, or 3 years; fees vary based on stall location.",
@@ -329,10 +340,10 @@
       "subsection": null,
       "licence": "Supermarket Licence",
       "description": "For the operation of a supermarket with the sale/preparation of raw food. The purpose of licensing is to ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.",
-      "reason_for_licence": "A Supermarket Licence is required for the operation of a supermarket with the sale/preparation of raw food.",
-      "requirements": "Complete all fields on the application form, submit the layout plan with provision of a metric scale, indication of kitchen equipment, and boundaries of refreshment area. Obtain In-Principle Approval before renovation.",
-      "app_guidance": "Step 1: Obtain In-Principle Approval. Step 2: Commence Renovation & Set-up. Step 3: Request for Inspection. Step 4: Complete Payment for Licence.",
-      "other": "Estimated processing time is 7 working days if application is complete and in order. Valid for 1 year. Fee: $250.00 for less than 200 square metres, $500.00 for more than 200 square metres.",
+      "reason_for_licence": "A Supermarket Licence is required to operate a supermarket that sells or prepares raw food.",
+      "requirements": "Complete all fields on the application form, submit a layout plan, obtain In-Principle Approval (IPA) before renovation, and comply with all pre-licensing requirements.",
+      "app_guidance": "Apply through GoBusiness, obtain IPA, commence renovation, request for inspection, and complete payment for the licence.",
+      "other": "Estimated processing time is 7 working days if application is complete and in order. Valid for 1 year.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/supermarket-licence"
     }
   ],
@@ -351,7 +362,7 @@
         "Completed declaration form"
       ],
       "app_guidance": "Applicants should log in to GoBusiness Licensing website as Business User or SingPass. Applications must be submitted at least 2 weeks before the fair commencement date.",
-      "other": "Operating temporary fairs illegally without a valid permit is an offence. Offenders are liable to fines or imprisonment.",
+      "other": "Operating temporary fairs illegally without a valid permit is an offence. Offenders may face fines or imprisonment.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/permit-for-temporary-fair"
     }
   ],
@@ -362,7 +373,7 @@
       "licence": "Temporary Fair Stall Licence",
       "description": "This licence is only for stalls within temporary fairs that conduct handling or preparation of food for sale. There is no separate fee for this licence, and it is valid only during the fair duration.",
       "reason_for_licence": "This licence is required for stalls that handle or prepare food for sale at temporary fairs.",
-      "requirements": "A photocopy of food handler’s WP, Food Safety Course Level 1 certificate, a copy of lease contract with temporary fair organiser, and other supporting documents.",
+      "requirements": "A photocopy of food handler’s WP (both sides), Food Safety Course Level 1 / Refresher Food Safety Course Level 1, a copy of lease contract with temporary fair organiser.",
       "app_guidance": "Estimated processing time is 3 working days if application is complete and in order. Apply on GoBusiness.",
       "other": "No licence is needed for stalls that sell non-food items or pre-packed food items from SFA-licensed food processing establishments, food retail establishments, or importers.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/temporary-fair-stall-licence"
@@ -381,26 +392,15 @@
       "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage"
     },
     {
-      "title": "Businesses that Need Licence / Registration for Food Manufacturing & Storage",
-      "subsection": "Licence & Registration",
-      "licence": "Licence to Operate a Coldstore",
-      "description": "All coldstores for meat and seafood products must be licensed before they store food for wholesale distribution.",
-      "reason_for_licence": "It is an offence under the prevailing food safety laws to carry out the above activities without a valid SFA licence/registration.",
-      "requirements": "Applicants must comply with general requirements, prevailing food safety laws, and licensing conditions.",
-      "app_guidance": "For details on the application process, see Application Process & Fees for Licence / Registration for Food Manufacturing & Storage.",
-      "other": "This licence is for storage only. There must not be any processing or retail activities.",
-      "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage"
-    },
-    {
-      "title": "Businesses that Need Licence / Registration for Food Manufacturing & Storage",
-      "subsection": "Licence & Registration",
-      "licence": "Licence to Operate a Slaughterhouse",
-      "description": "All slaughterhouses for poultry and livestock must be licensed before they slaughter, process, prepare, package, or store food for distribution to wholesalers or retailers.",
-      "reason_for_licence": "It is an offence under the prevailing food safety laws to carry out the above activities without a valid SFA licence/registration.",
-      "requirements": "Applicants must comply with general requirements, prevailing food safety laws, and licensing conditions.",
-      "app_guidance": "For details on the application process, see Application Process & Fees for Licence / Registration for Food Manufacturing & Storage.",
-      "other": "This licence is required for slaughterhouses only.",
-      "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage"
+      "title": "Businesses that Currently Do Not Need Licence / Permit",
+      "subsection": null,
+      "licence": "No licence required for Home-based Food Businesses",
+      "description": "Home-based food businesses do not require an SFA licence to operate.",
+      "reason_for_licence": "Home-based food businesses are exempt from needing a licence.",
+      "requirements": null,
+      "app_guidance": null,
+      "other": null,
+      "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-currently-do-not-need-licence-permit"
     }
   ],
   [
@@ -411,8 +411,8 @@
       "description": "In Singapore, all cold stores for meat & seafood products must be licensed by the Singapore Food Agency before they are permitted to carry out any storage for wholesale distribution.",
       "reason_for_licence": "Cold stores for meat & seafood products require licensing to operate legally.",
       "requirements": "Located in areas designated for food use; Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
-      "app_guidance": "Estimated processing time is An estimated 25 working days to process an application depending on the completeness of documents submitted in order to issue in principle approval (IPA).",
-      "other": "Application is available for third party filers (Business).",
+      "app_guidance": "Application is available for third party filers; Estimated processing time is 25 working days depending on document completeness.",
+      "other": "Application fees: $147.20; Licence fees: $260.00; Payment methods include major credit cards and PayNow.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-operate-a-coldstore"
     }
   ],
@@ -422,10 +422,10 @@
       "subsection": null,
       "licence": "Licence to Operate a Food Processing Establishment",
       "description": "In Singapore, all food processing establishments must be licensed by Singapore Food Agency before they are permitted to carry out any food processing for wholesale distribution.",
-      "reason_for_licence": "All food processing establishments must be licensed by SFA.",
+      "reason_for_licence": "All food processing establishments must be licensed by SFA before processing food for wholesale distribution.",
       "requirements": "Located in areas designated for food use; Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
-      "app_guidance": "Apply as a Business User with a UEN-registered company/entity with Corppass or as a Third Party Filer for Business.",
-      "other": "Estimated processing time is 25 working days depending on document completeness.",
+      "app_guidance": "Application is available for third party filers (Business). Estimated processing time is 25 working days depending on document completeness.",
+      "other": "Application Fees vary based on type of processing: $147.20 for Meat/Fish, $260.00 for Canning, $840.00 for Other Processed Food Small, $180.00 for total floor area < 200 square meter, $360.00 for total floor area >= 200 square meter and 750 square meter, $600.00 for total floor area >= 750 square meter.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-operate-a-food-processing-establishment"
     }
   ],
@@ -437,8 +437,8 @@
       "description": "In Singapore, all slaughter-houses must be licensed by the Singapore Food Agency before they are permitted to carry out any food processing or storage for wholesale distribution.",
       "reason_for_licence": "All slaughter-houses must be licensed to operate legally.",
       "requirements": "Located in areas designated for food use; Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
-      "app_guidance": "Estimated processing time is 25 working days; Apply on GoBusiness.",
-      "other": "Application is available for third party filers.",
+      "app_guidance": "Estimated processing time is An estimated 25 working days to process an application depending on the completeness of documents submitted in order to issue in principle approval (IPA). Apply on GoBusiness.",
+      "other": "Application is available for third party filers (Business).",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-operate-slaughter-house"
     }
   ],
@@ -448,8 +448,8 @@
       "subsection": null,
       "licence": "Food Shop Licence",
       "description": "In Singapore, all food storage warehouse must be licensed by the Singapore Food Agency before they are permitted to carry out any storage for wholesale distribution.",
-      "reason_for_licence": "All food storage warehouses must be licensed by the SFA.",
-      "requirements": "ACRA - Registration for Companies / Business.",
+      "reason_for_licence": "All food storage warehouses must be licensed to operate.",
+      "requirements": "ACRA - Registration for Companies / Business",
       "app_guidance": "Estimated processing time is An estimated 25 working days to process and issue new licence. Apply on GoBusiness.",
       "other": "No supporting documents required. The agency will contact you should they require any documents from you.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/registration-of-food-storage-warehouses"
@@ -464,7 +464,7 @@
       "reason_for_licence": "All local producers of animal feed for food-producing animals must be licensed by SFA before commencing feed production.",
       "requirements": "Must be registered with ACRA and have a UEN. Active CorpPass account required.",
       "app_guidance": "Submit licence application and business proposal via GoBusiness portal. Apply for pre-licensing inspection after establishment setup. Sign up for GIRO for fee payments.",
-      "other": "Licence is valid for 1 year. No application fee, but a $240 annual licence fee applies.",
+      "other": "Licensees must maintain establishments and ensure feed produced is fit for purpose. Inspection occurs 3-6 months before licence expiry.",
       "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/application-process-fees-for-licence-to-manufacture-and-process-animal-feed"
     }
   ],
@@ -474,79 +474,82 @@
       "subsection": null,
       "licence": "Licence to Manufacture Animal Feed and Process of Animal Feed for Food-Producing Animals",
       "description": "All local commercial producers of animal feed for food producing animals must get a Singapore Food Agency (SFA)’s issued licence before they can manufacture and process animal feed. This includes livestock feed and aquaculture feed.",
-      "reason_for_licence": "Local commercial producers of animal feed must obtain this licence to operate legally.",
-      "requirements": "Approval document for use of Premises and waste disposal (URA, HDB / JTC, NEA / SFA), Layout plan of production area, Flow Chart of manufacturing/processing steps, Labelling, Standard Operation Procedure.",
-      "app_guidance": "Estimated processing time is 25 working days. Application is available for third party filers. Apply on GoBusiness.",
-      "other": "Licence Fees: $240.00. Payment Methods: American Express, Diners Club, JCB, Mastercard, UnionPay, Visa, PayNow, GIRO.",
+      "reason_for_licence": "Local commercial producers of animal feed are required to obtain this licence to operate legally.",
+      "requirements": "ACRA - Registration for Companies / Business; Approval document for use of Premises and waste disposal (URA, HDB / JTC, NEA / SFA); Layout plan of production area; Flow Chart of manufacturing/processing steps; Labelling; Standard Operation Procedure.",
+      "app_guidance": "Estimated processing time is 25 working days. Application can be completed in 30 minutes. Apply on GoBusiness.",
+      "other": "Application is available for third party filers (Business).",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-manufacture-animal-feed-and-process-of-animal-feed-for-food-producing-animals"
     }
   ],
   [
     {
       "title": "Businesses that Need Licence / Registration for Farming",
-      "subsection": "Licence & Registration",
+      "subsection": "Licence, Permit & Registration",
       "licence": "Farm Licence",
       "description": "Land-based farms for keeping, rearing, or breeding animals or birds, or cultivating plants, for commercial food production e.g. dairy farms, layer farms, mushroom farms, urban farms, and vegetable farms.",
       "reason_for_licence": "To carry out farming activities regulated by SFA, you must have the required licence/registration.",
-      "requirements": "Eligibility requirements can be checked under Requirements for Licence for Farming.",
+      "requirements": "Operating a land-based farm for commercial production, operating a fish culture farm for commercial production, operating fishing vessels servicing fish culture farms, engaging personnel for activities on fish culture farms.",
       "app_guidance": "For details on how to apply, see Application Process & Fees for Licence for Farming.",
       "other": "Fees for Farm Licence is $100 per year.",
       "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming"
     },
     {
-      "title": "Businesses that Need Licence / Registration for Fishing Vessel, Gear & Personnel",
-      "subsection": "Licence & Registration",
-      "licence": "Fishing Vessel Licence",
-      "description": "Servicing fish culture farms.",
-      "reason_for_licence": "To carry out fishing activities regulated by SFA, you must have the required licence/registration.",
-      "requirements": "Eligibility requirements can be checked under Requirements for Licence for Fishing Vessel, Gear & Personnel.",
-      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence / Registration of Fishing Vessel.",
-      "other": "Fees for Fishing Vessel Licence vary based on the type of vessel.",
-      "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-fishing-vessel-gear-personnel"
-    },
-    {
-      "title": "Businesses that Need Licence / Registration for Fish Culture Farm",
-      "subsection": "Licence & Registration",
+      "title": "Fish Culture Farm Licence",
+      "subsection": "Licence, Permit & Registration",
       "licence": "Fish Culture Farm Licence",
       "description": "Sea-based fish culture farms for commercial production e.g. fish farms and shrimp farms.",
-      "reason_for_licence": "To carry out fish culture activities regulated by SFA, you must have the required licence/registration.",
-      "requirements": "Eligibility requirements can be checked under Requirements for Licence for Fish Culture Farm.",
-      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence for Fish Culture Farm.",
+      "reason_for_licence": "To carry out farming activities regulated by SFA, you must have the required licence/registration.",
+      "requirements": "Operating a fish culture farm for commercial production.",
+      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence for Farming.",
       "other": "Fees for Fish Culture Farm Licence is $145 per year.",
-      "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-fish-culture-farm"
+      "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming"
+    },
+    {
+      "title": "Fishing Vessel Licence",
+      "subsection": "Licence, Permit & Registration",
+      "licence": "Fishing Vessel Licence",
+      "description": "Servicing fish culture farms.",
+      "reason_for_licence": "To carry out farming activities regulated by SFA, you must have the required licence/registration.",
+      "requirements": "Operating fishing vessels servicing fish culture farms.",
+      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence for Farming.",
+      "other": "Fees for Fishing Vessel Licence vary based on the type of vessel.",
+      "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming"
+    },
+    {
+      "title": "Registration of Personnel on Fish Culture Farms",
+      "subsection": "Licence, Permit & Registration",
+      "licence": "No licence required Registration of Personnel on Fish Culture Farms",
+      "description": "All employees and persons engaged in activities on the fish culture farm.",
+      "reason_for_licence": "No fee is required for registration of personnel.",
+      "requirements": "Engaging personnel for activities on fish culture farms.",
+      "app_guidance": "For details on how to apply, see Application Process & Fees for Licence for Farming.",
+      "other": "Registration takes approximately 3 weeks to process, provided the application is complete.",
+      "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming"
     }
   ],
   [
     {
       "title": "Requirements for Pesticide Usage in Farms",
-      "subsection": "Pesticides",
+      "subsection": "Farming",
       "licence": "No licence required",
       "description": "Licensed farms are only permitted to use agricultural pesticides that are registered with SFA. Registered pesticides can only be applied by certified pesticide operators.",
       "reason_for_licence": "All farm licensees are required to comply with the usage requirements for agricultural pesticides.",
-      "requirements": [
-        "Use only registered agricultural pesticides.",
-        "Never use or store non-agricultural pesticides on your farm.",
-        "Pesticides must be applied by certified pesticide operators.",
-        "Always ensure pesticide residue is within limits.",
-        "Keep records of pesticide use.",
-        "Dispose of unused pesticides and empty pesticide receptacles safely.",
-        "Requirements apply also to pesticide-free or chemical-free farms."
-      ],
-      "app_guidance": "Farm licensees can contact their Account Manager or use the SFA Online Feedback Form for more information.",
-      "other": "SFA ensures compliance through a surveillance regime and will take action against any infringements.",
+      "requirements": "1. Use only registered agricultural pesticides. 2. Never use or store non-agricultural pesticides on your farm. 3. Pesticides must be applied by certified pesticide operators. 4. Always ensure pesticide residue is within limits. 5. Keep records of pesticide use. 6. Dispose of unused pesticides and empty pesticide receptacles safely. 7. The requirements apply also to pesticide-free or chemical-free farms.",
+      "app_guidance": "Farm licensees can contact their Account Manager. You can also contact SFA via the SFA Online Feedback Form.",
+      "other": "SFA ensures compliance through the surveillance regime and will take action against any infringements.",
       "url": "https://www.sfa.gov.sg/farming/pesticides/requirements-for-pesticide-usage-in-farms"
     }
   ],
   [
     {
       "title": "Businesses that Need Licence / Registration for Fishing Vessel, Gear & Personnel",
-      "subsection": "Licence & Registration",
+      "subsection": "Licence, Permit & Registration",
       "licence": "Licence for Import/Export/Transhipment of Meat and Fish Products",
       "description": "All inboard fishing vessels and fishing equipment onboard must be licensed by SFA. Individuals employed or engaged in any activity on a fishing vessel must also be registered.",
       "reason_for_licence": "Operating a fishing vessel without a licence is an offence.",
       "requirements": "All inboard fishing vessels need to be licensed; new fishing gear onboard fishing vessels need to be licensed; employees and individuals engaged in any activity on fishing vessels must be registered.",
       "app_guidance": "For details on how to apply, see Application Process & Fees for Licence / Registration of Fishing Vessel, Fishing Gear, Persons Engaged or Employed on Fishing Vessel, Entry Permit and Port Clearance/Report of Arrival at SFA Fishery Ports.",
-      "other": "Fees vary based on the type of fishing vessel and registration.",
+      "other": "Fees vary based on the type of licence and registration.",
       "url": "https://www.sfa.gov.sg/wholesale-markets-fishery-ports/licence-registration/businesses-that-need-licence-registration-for-fishing-vessel-gear-personnel"
     }
   ],
@@ -556,8 +559,8 @@
       "subsection": null,
       "licence": "Health Certificate for Export of Live Foodfish for Breeding",
       "description": "The Health Certificate for Export of Live Foodfish is issued by Singapore Food Agency that allows exporters to export live food fish for farming.",
-      "reason_for_licence": "This licence is required for exporting live food fish.",
-      "requirements": "Eligibility Requirements: A UEN-registered company/entity with Corppass. Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
+      "reason_for_licence": "This certificate is required for exporters to export live food fish.",
+      "requirements": "Business User: A UEN-registered company/entity with Corppass. Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
       "app_guidance": "Apply on GoBusiness. Estimated processing time is Normal: 3 working days, Express: 1 working day. You may withdraw your application at any time after submitting.",
       "other": "With effect from 14 April 2025, exporters are required to install the new Digital Document Reader (DDR) software to preview the watermarked certificates for printing.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/health-certificate-for-export-of-live-foodfish-for-breeding"
@@ -569,9 +572,9 @@
       "subsection": null,
       "licence": "Export Health Certificate",
       "description": "The Export Health Certificate is issued to traders, to certify a food consignment as fit for human consumption, and meeting safety standards or other required criteria to facilitate the export of this food consignment. This certificate is only issued for food consignments manufactured or processed or packed in a food processing establishment licensed by Singapore Food Agency.",
-      "reason_for_licence": "This certificate is required for exporting food consignments.",
+      "reason_for_licence": "To certify food consignments for export as fit for human consumption.",
       "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
-      "app_guidance": "You may apply as a Business User with a UEN-registered company/entity with Corppass or as a Third Party Filer for Business. Estimated processing time is 3 working days. Application is available for third party filers.",
+      "app_guidance": "Application is available for third party filers (Business). Estimated processing time is 3 working days. 30 minutes to complete.",
       "other": "With effect from 14 April 2025, exporters are required to install the new Digital Document Reader (DDR) software to preview the watermarked certificates for printing.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/export-health-certificate"
     }
@@ -582,10 +585,10 @@
       "subsection": null,
       "licence": "Free Sale Certificate (Food)",
       "description": "The Free Sale Certificate (Food) allows exporters to get Singapore Food Agency endorsement for their - Meat and Fish products intended for export. - Locally processed meat and fish products intended for export - Processed food products intended for export.",
-      "reason_for_licence": "This certificate is required for exporters of specific food products.",
+      "reason_for_licence": "Required for exporters to obtain endorsement for specific food products.",
       "requirements": "Eligibility Requirements: A UEN-registered company/entity with Corppass. Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
-      "app_guidance": "Estimated processing time is 3 working days. Application is available for third party filers. Apply on GoBusiness.",
-      "other": "Certificate Fee: $17.11 per certificate. Payment Methods: American Express, Diners Club, JCB, Mastercard, UnionPay, Visa, PayNow, GIRO.",
+      "app_guidance": "Estimated processing time is 3 working days. Application is available for third party filers (Business).",
+      "other": "You may withdraw your application at any time after submitting. Withdrawing your application will forfeit any fees already paid.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/free-sale-certificate-food"
     }
   ],
@@ -608,10 +611,10 @@
       "subsection": null,
       "licence": "Veterinary Certificate for Food-Producing Animals",
       "description": "The Veterinary Certificate will be issued by the Singapore Food Agency. This certificate allows exporters to get endorsement for certification of health and/or testing of the animals for diseases required by the destination country/region.",
-      "reason_for_licence": "This certificate is required for exporters to certify health and testing of animals.",
-      "requirements": "Prerequisite Licence(s): ACRA - Registration for Companies / Business.",
-      "app_guidance": "Apply as a Business User with a UEN-registered company/entity with Corppass or as a Third Party Filer for Business.",
-      "other": "Estimated processing time is Normal: 3 working days, Express: 1 working day.",
+      "reason_for_licence": "This certificate is required for exporters to certify the health of food-producing animals.",
+      "requirements": "Eligibility Requirements: A UEN-registered company/entity with Corppass or authorized third parties may apply on behalf of clients. Prerequisite Licence: ACRA - Registration for Companies / Business.",
+      "app_guidance": "Apply as a business user or third party filer on GoBusiness. Estimated processing time is Normal: 3 working days, Express: 1 working day.",
+      "other": "Documents to prepare include Product Details, Letter of Declaration, Certificate of Analysis, Animal Details, and Private Veterinary Health Certificate.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/veterinary-certificate-for-food-producing-animals"
     }
   ],
@@ -624,7 +627,7 @@
       "reason_for_licence": "This form is required for premises that must implement a Food Safety Management System.",
       "requirements": "FSMS Plan, valid FSMS trained certificate accepted by SFA, accredited FSMS Certificate.",
       "app_guidance": "Apply as an individual user with a local Singpass account or as a business user with a UEN-registered company/entity and Corppass.",
-      "other": "No payment required. Estimated processing time is NA. 20 minutes to complete.",
+      "other": "No payment required. Estimated processing time is 20 minutes to complete.",
       "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/submission-form-for-food-safety-management-system"
     }
   ],
@@ -648,10 +651,10 @@
       "subsection": null,
       "licence": "Liquor Licence (Singapore Police Force)",
       "description": "A liquor licence is required if your company/business/society intends to supply any liquor, unless otherwise exempted under the Liquor Control (Supply and Consumption) Act 2015 section 4(2).",
-      "reason_for_licence": "A liquor licence is necessary for supplying liquor to comply with legal requirements.",
-      "requirements": "The applicant must fulfill legal requirements, and the premises must be suitable for liquor supply.",
-      "app_guidance": "Submit a new liquor licence application at GoBusiness. Renewals can be done within two months prior to expiry.",
-      "other": "Exemptions exist for certain circumstances, such as emergency deliveries or religious services.",
+      "reason_for_licence": "Anyone found supplying liquor without a valid liquor licence shall be liable on conviction to a fine up to $20,000.",
+      "requirements": "The applicant must fulfill the legal requirements to be granted a liquor licence, and the premises must be suitable for the supply of liquor.",
+      "app_guidance": "Submit a new liquor licence application at GoBusiness. Renewals can be done within two months prior to expiry. Amendments and cancellations are also possible through the same portal.",
+      "other": "Exemptions from the liquor licence are specified under Section 4(2) of the Liquor Control (Supply and Consumption) Act 2015.",
       "url": "https://www.police.gov.sg/E-Services/Apply-for-Liquor-Licence"
     }
   ],
@@ -663,88 +666,21 @@
       "licence": "Food Stall Licence",
       "description": "Stalls selling food items would need to obtain a Food Stall Licence from SFA, except for those under SFA exemptions.",
       "reason_for_licence": "Stalls selling food items must obtain a Food Stall Licence.",
-      "requirements": "Must complete the Food Safety Course Certificate before the Food Stall Licence can be issued.",
-      "app_guidance": "NEA will assist stallholders to apply for their Food Stall Licence as part of tenancy administration for NEA-managed centres/markets. If operating within centres/markets managed by NEA-appointed Operators, submit a Food Stall Licence application to SFA.",
-      "other": "For application forms related to hawker stall, access them at the e-portal.",
+      "requirements": "Must be a Singapore Citizen or Permanent Resident, 21 years old and above, not debarred from holding a SFA hawker licence, not a former assistant/nominee who was deregistered by NEA, not banned by the Government/Statutory Boards from taking part in any business tenders, and not renting or a joint operator of two cooked food stalls.",
+      "app_guidance": "Visit GoBusiness to find out about the required licences/certifications. NEA will assist stallholders to apply for their Food Stall Licence as part of tenancy administration.",
+      "other": "If you are operating a cooked food stall, you must obtain the Food Safety Course Certificate before the Food Stall Licence can be issued to you.",
       "url": "https://www.nea.gov.sg/our-services/hawker-management/becoming-a-hawker"
     }
   ],
-  [
-    {
-      "title": "Halal Certification Schemes",
-      "subsection": "Scheme types & eligibility criteria",
-      "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Eating Establishment Scheme (Category 1)",
-      "description": "Issued to retail food establishments such as restaurants, school canteen stalls, snack bars, Halal corners, confectioneries, bakery shops, stalls within a foodcourt or its equivalent and temporary stalls in bazaars, flea market, trade fairs, etc.",
-      "reason_for_licence": "Halal certification is required for food establishments serving Halal food.",
-      "requirements": "Eligibility criteria for various Halal certification schemes.",
-      "app_guidance": "Follow the application process outlined for Halal certification.",
-      "other": "Different categories of Halal certification schemes are available.",
-      "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/"
-    },
-    {
-      "title": "Food Preparation Area Scheme",
-      "subsection": "Scheme types & eligibility criteria",
-      "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Food Preparation Area Scheme",
-      "description": "Issued to catering establishments and central kitchen facilities.",
-      "reason_for_licence": "Halal certification is necessary for food preparation areas to ensure compliance with Halal standards.",
-      "requirements": "Must meet the criteria for food preparation areas as specified.",
-      "app_guidance": "Application process for Halal certification for food preparation areas.",
-      "other": "Catering establishments must adhere to Halal guidelines.",
-      "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/"
-    },
-    {
-      "title": "Product or Whole Plant Scheme",
-      "subsection": "Scheme types & eligibility criteria",
-      "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Product / Whole Plant Scheme",
-      "description": "Issued to products which are manufactured or partly manufactured/processed in Singapore.",
-      "reason_for_licence": "Halal certification is required for products to ensure they meet Halal standards.",
-      "requirements": "Products must comply with Halal manufacturing processes.",
-      "app_guidance": "Follow the application process for Halal certification for products.",
-      "other": "Applicable to manufacturing facilities and all products manufactured therein.",
-      "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/"
-    },
-    {
-      "title": "Poultry Abattoir Scheme",
-      "subsection": "Scheme types & eligibility criteria",
-      "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Poultry Scheme",
-      "description": "Issued to poultry abattoirs for their freshly-slaughtered poultry.",
-      "reason_for_licence": "Halal certification is necessary for poultry abattoirs to ensure compliance with Halal slaughtering practices.",
-      "requirements": "Must meet Halal slaughtering standards.",
-      "app_guidance": "Application process for Halal certification for poultry abattoirs.",
-      "other": "Ensures that poultry products are Halal certified.",
-      "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/"
-    },
-    {
-      "title": "Endorsement Scheme",
-      "subsection": "Scheme types & eligibility criteria",
-      "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Endorsement Scheme",
-      "description": "Issued to imported, exported or re-exported products in respect of which Halal certificates have been issued.",
-      "reason_for_licence": "Halal endorsement is required for products that are imported or exported to ensure they meet Halal standards.",
-      "requirements": "Products must have valid Halal certificates.",
-      "app_guidance": "Follow the application process for Halal endorsement.",
-      "other": "Applicable to international trade of Halal products.",
-      "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/"
-    },
-    {
-      "title": "Storage Facility Scheme",
-      "subsection": "Scheme types & eligibility criteria",
-      "licence": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Storage Facility Scheme",
-      "description": "Issued to stationary and mobile storage facilities such as warehouses, cold rooms and dishwashing facilities.",
-      "reason_for_licence": "Halal certification is necessary for storage facilities to ensure compliance with Halal storage practices.",
-      "requirements": "Storage facilities must meet Halal storage standards.",
-      "app_guidance": "Application process for Halal certification for storage facilities.",
-      "other": "Ensures that Halal products are stored according to Halal guidelines.",
-      "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/"
-    }
-  ],
+  [],
   [
     {
       "title": "Tobacco Retail Licence",
-      "subsection": "Tobacco regulation",
+      "subsection": null,
       "licence": "Tobacco Retail Licence (Health Sciences Authority)",
       "description": "A tobacco retail licence is issued specifically to a particular outlet. If you operate more than one outlet, please make a separate application for each outlet.",
       "reason_for_licence": "You need a licence to retail tobacco products.",
-      "requirements": "Individuals above MLA who have not committed the offence of selling tobacco products to minors and companies registered with ACRA or licensed by SFA to retail food and beverages.",
+      "requirements": "Individuals above Minimum Legal Age (MLA) who have not committed the offence of selling tobacco products to minors. Companies registered with ACRA or licensed by SFA to retail food and beverages.",
       "app_guidance": "Go to the 24-hour GoBusiness Licensing website for easy online application. An email notification will be sent once the application is approved or rejected.",
       "other": "Licences are non-transferrable between companies/outlets. Responsibilities include verifying the age of buyers and retaining invoices for transactions.",
       "url": "https://www.hsa.gov.sg/tobacco-regulation/licences/retail/apply"

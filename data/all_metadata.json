@@ -7,8 +7,8 @@
     "original_index": 0
   },
   {
-    "chunk_id": "MUIS_Halal_Certification_Conditions_1",
-    "title": "MUIS Halal Certification Conditions",
+    "chunk_id": "MUIS_Halal_Certification_Conditions_HCC_PWP__Version_4_0__1",
+    "title": "MUIS Halal Certification Conditions HCC PWP (Version 4.0)",
     "licence_name": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Product / Whole Plant Scheme",
     "url": "https://file.go.gov.sg/hcc-pwp.pdf",
     "original_index": 1
@@ -51,7 +51,7 @@
   {
     "chunk_id": "What_You_Need_to_Know_for_Export___Tranship_of_Animal_Feed_for_Food_Producing_Animals_7",
     "title": "What You Need to Know for Export / Tranship of Animal Feed for Food-Producing Animals",
-    "licence_name": "Registration to Import Animal Feed",
+    "licence_name": "Licence to Manufacture Animal Feed and Process of Animal Feed for Food-Producing Animals",
     "url": "https://www.sfa.gov.sg/commercial-exports/what-you-need-to-know-for-export-tranship-of-animal-feed",
     "original_index": 7
   },
@@ -126,94 +126,94 @@
     "original_index": 17
   },
   {
-    "chunk_id": "Temporary_Fair_Permit_Requirements_18",
-    "title": "Temporary Fair Permit Requirements",
-    "licence_name": "Permit for Temporary Fair",
+    "chunk_id": "No_licence_required_for_certain_food_stalls_18",
+    "title": "No licence required for certain food stalls",
+    "licence_name": "No licence required Food Stall Licence",
     "url": "https://www.sfa.gov.sg/food-retail/licence-permit/requirements-for-licence-permit-for-food-retail",
     "original_index": 18
   },
   {
-    "chunk_id": "Types_of_Online_Food_Businesses_19",
-    "title": "Types of Online Food Businesses",
-    "licence_name": "No licence required",
-    "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/online-food-businesses/types-of-online-food-businesses",
+    "chunk_id": "Requirements_for_Supermarket_Licences_19",
+    "title": "Requirements for Supermarket Licences",
+    "licence_name": "Supermarket Licence",
+    "url": "https://www.sfa.gov.sg/food-retail/licence-permit/requirements-for-supermarket-licences",
     "original_index": 19
   },
   {
-    "chunk_id": "Home_based_Food_Businesses_20",
-    "title": "Home-based Food Businesses",
+    "chunk_id": "Types_of_Online_Food_Businesses_20",
+    "title": "Types of Online Food Businesses",
     "licence_name": "No licence required",
-    "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/home-based-food-businesses/about-hdb-ura-home-based-business-scheme",
+    "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/online-food-businesses/types-of-online-food-businesses",
     "original_index": 20
   },
   {
-    "chunk_id": "Requirements_for_Food_Delivery_Businesses_21",
-    "title": "Requirements for Food Delivery Businesses",
-    "licence_name": "No licence required",
-    "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/food-delivery-businesses/requirements-for-food-delivery-businesses",
+    "chunk_id": "Home_based_Food_Businesses_21",
+    "title": "Home-based Food Businesses",
+    "licence_name": "No licence required Food Shop Licence",
+    "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/home-based-food-businesses/about-hdb-ura-home-based-business-scheme",
     "original_index": 21
   },
   {
-    "chunk_id": "Guidelines_for_Group_Buy_Organisers_22",
-    "title": "Guidelines for Group-Buy Organisers",
+    "chunk_id": "Requirements_for_Food_Delivery_Businesses_22",
+    "title": "Requirements for Food Delivery Businesses",
     "licence_name": "No licence required",
-    "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/group-buy-activities/guidelines-for-group-buy-organisers",
+    "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/food-delivery-businesses/requirements-for-food-delivery-businesses",
     "original_index": 22
   },
   {
-    "chunk_id": "Food_Shop_Licence_23",
-    "title": "Food Shop Licence",
-    "licence_name": "Food Shop Licence",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-shop-licence",
+    "chunk_id": "Guidelines_for_Group_Buy_Organisers_23",
+    "title": "Guidelines for Group-Buy Organisers",
+    "licence_name": "No licence required",
+    "url": "https://www.sfa.gov.sg/food-retail/businesses-that-currently-do-not-need-licence-permit/group-buy-activities/guidelines-for-group-buy-organisers",
     "original_index": 23
   },
   {
-    "chunk_id": "Food_Stall_Licence_24",
-    "title": "Food Stall Licence",
-    "licence_name": "Food Stall Licence",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-stall-licence",
+    "chunk_id": "Food_Shop_Licence_24",
+    "title": "Food Shop Licence",
+    "licence_name": "Food Shop Licence",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-shop-licence",
     "original_index": 24
   },
   {
-    "chunk_id": "Supermarket_Licence_25",
-    "title": "Supermarket Licence",
-    "licence_name": "Supermarket Licence",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/supermarket-licence",
+    "chunk_id": "Food_Stall_Licence_25",
+    "title": "Food Stall Licence",
+    "licence_name": "Food Stall Licence",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-stall-licence",
     "original_index": 25
   },
   {
-    "chunk_id": "Permit_for_Temporary_Fair_26",
-    "title": "Permit for Temporary Fair",
-    "licence_name": "Permit for Temporary Fair",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/permit-for-temporary-fair",
+    "chunk_id": "Supermarket_Licence_26",
+    "title": "Supermarket Licence",
+    "licence_name": "Supermarket Licence",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/supermarket-licence",
     "original_index": 26
   },
   {
-    "chunk_id": "Temporary_Fair_Stall_Licence_27",
-    "title": "Temporary Fair Stall Licence",
-    "licence_name": "Temporary Fair Stall Licence",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/temporary-fair-stall-licence",
+    "chunk_id": "Permit_for_Temporary_Fair_27",
+    "title": "Permit for Temporary Fair",
+    "licence_name": "Permit for Temporary Fair",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/permit-for-temporary-fair",
     "original_index": 27
   },
   {
-    "chunk_id": "Businesses_that_Need_Licence___Registration_for_Food_Manufacturing___Storage_28",
-    "title": "Businesses that Need Licence / Registration for Food Manufacturing & Storage",
-    "licence_name": "Licence to Operate a Food Processing Establishment",
-    "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage",
+    "chunk_id": "Temporary_Fair_Stall_Licence_28",
+    "title": "Temporary Fair Stall Licence",
+    "licence_name": "Temporary Fair Stall Licence",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/temporary-fair-stall-licence",
     "original_index": 28
   },
   {
     "chunk_id": "Businesses_that_Need_Licence___Registration_for_Food_Manufacturing___Storage_29",
     "title": "Businesses that Need Licence / Registration for Food Manufacturing & Storage",
-    "licence_name": "Licence to Operate a Coldstore",
+    "licence_name": "Licence to Operate a Food Processing Establishment",
     "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage",
     "original_index": 29
   },
   {
-    "chunk_id": "Businesses_that_Need_Licence___Registration_for_Food_Manufacturing___Storage_30",
-    "title": "Businesses that Need Licence / Registration for Food Manufacturing & Storage",
-    "licence_name": "Licence to Operate a Slaughterhouse",
-    "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-need-licence-registration-for-food-manufacturing-storage",
+    "chunk_id": "Businesses_that_Currently_Do_Not_Need_Licence___Permit_30",
+    "title": "Businesses that Currently Do Not Need Licence / Permit",
+    "licence_name": "No licence required for Home-based Food Businesses",
+    "url": "https://www.sfa.gov.sg/food-manufacturing-storage/licence-registration/businesses-that-currently-do-not-need-licence-permit",
     "original_index": 30
   },
   {
@@ -266,143 +266,108 @@
     "original_index": 37
   },
   {
-    "chunk_id": "Businesses_that_Need_Licence___Registration_for_Fishing_Vessel__Gear___Personnel_38",
-    "title": "Businesses that Need Licence / Registration for Fishing Vessel, Gear & Personnel",
-    "licence_name": "Fishing Vessel Licence",
-    "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-fishing-vessel-gear-personnel",
+    "chunk_id": "Fish_Culture_Farm_Licence_38",
+    "title": "Fish Culture Farm Licence",
+    "licence_name": "Fish Culture Farm Licence",
+    "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming",
     "original_index": 38
   },
   {
-    "chunk_id": "Businesses_that_Need_Licence___Registration_for_Fish_Culture_Farm_39",
-    "title": "Businesses that Need Licence / Registration for Fish Culture Farm",
-    "licence_name": "Fish Culture Farm Licence",
-    "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-fish-culture-farm",
+    "chunk_id": "Fishing_Vessel_Licence_39",
+    "title": "Fishing Vessel Licence",
+    "licence_name": "Fishing Vessel Licence",
+    "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming",
     "original_index": 39
   },
   {
-    "chunk_id": "Requirements_for_Pesticide_Usage_in_Farms_40",
-    "title": "Requirements for Pesticide Usage in Farms",
-    "licence_name": "No licence required",
-    "url": "https://www.sfa.gov.sg/farming/pesticides/requirements-for-pesticide-usage-in-farms",
+    "chunk_id": "Registration_of_Personnel_on_Fish_Culture_Farms_40",
+    "title": "Registration of Personnel on Fish Culture Farms",
+    "licence_name": "No licence required Registration of Personnel on Fish Culture Farms",
+    "url": "https://www.sfa.gov.sg/farming/licence-registration/businesses-that-need-licence-registration-for-farming",
     "original_index": 40
   },
   {
-    "chunk_id": "Businesses_that_Need_Licence___Registration_for_Fishing_Vessel__Gear___Personnel_41",
-    "title": "Businesses that Need Licence / Registration for Fishing Vessel, Gear & Personnel",
-    "licence_name": "Licence for Import/Export/Transhipment of Meat and Fish Products",
-    "url": "https://www.sfa.gov.sg/wholesale-markets-fishery-ports/licence-registration/businesses-that-need-licence-registration-for-fishing-vessel-gear-personnel",
+    "chunk_id": "Requirements_for_Pesticide_Usage_in_Farms_41",
+    "title": "Requirements for Pesticide Usage in Farms",
+    "licence_name": "No licence required",
+    "url": "https://www.sfa.gov.sg/farming/pesticides/requirements-for-pesticide-usage-in-farms",
     "original_index": 41
   },
   {
-    "chunk_id": "Health_Certificate_for_Export_of_Live_Foodfish_for_Breeding_42",
-    "title": "Health Certificate for Export of Live Foodfish for Breeding",
-    "licence_name": "Health Certificate for Export of Live Foodfish for Breeding",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/health-certificate-for-export-of-live-foodfish-for-breeding",
+    "chunk_id": "Businesses_that_Need_Licence___Registration_for_Fishing_Vessel__Gear___Personnel_42",
+    "title": "Businesses that Need Licence / Registration for Fishing Vessel, Gear & Personnel",
+    "licence_name": "Licence for Import/Export/Transhipment of Meat and Fish Products",
+    "url": "https://www.sfa.gov.sg/wholesale-markets-fishery-ports/licence-registration/businesses-that-need-licence-registration-for-fishing-vessel-gear-personnel",
     "original_index": 42
   },
   {
-    "chunk_id": "Export_Health_Certificate_43",
-    "title": "Export Health Certificate",
-    "licence_name": "Export Health Certificate",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/export-health-certificate",
+    "chunk_id": "Health_Certificate_for_Export_of_Live_Foodfish_for_Breeding_43",
+    "title": "Health Certificate for Export of Live Foodfish for Breeding",
+    "licence_name": "Health Certificate for Export of Live Foodfish for Breeding",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/health-certificate-for-export-of-live-foodfish-for-breeding",
     "original_index": 43
   },
   {
-    "chunk_id": "Free_Sale_Certificate__Food__44",
-    "title": "Free Sale Certificate (Food)",
-    "licence_name": "Free Sale Certificate (Food)",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/free-sale-certificate-food",
+    "chunk_id": "Export_Health_Certificate_44",
+    "title": "Export Health Certificate",
+    "licence_name": "Export Health Certificate",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/export-health-certificate",
     "original_index": 44
   },
   {
-    "chunk_id": "Free_Sale_Certificate__Animal_Feed__for_Food_Producing_Animals_45",
-    "title": "Free Sale Certificate (Animal Feed) for Food Producing Animals",
-    "licence_name": "Free Sale Certificate (Animal Feed) for Food-Producing Animals",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/free-sale-certificate-animal-feed-for-food-producing-animals",
+    "chunk_id": "Free_Sale_Certificate__Food__45",
+    "title": "Free Sale Certificate (Food)",
+    "licence_name": "Free Sale Certificate (Food)",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/free-sale-certificate-food",
     "original_index": 45
   },
   {
-    "chunk_id": "Veterinary_Certificate_for_Food_Producing_Animals_46",
-    "title": "Veterinary Certificate for Food Producing Animals",
-    "licence_name": "Veterinary Certificate for Food-Producing Animals",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/veterinary-certificate-for-food-producing-animals",
+    "chunk_id": "Free_Sale_Certificate__Animal_Feed__for_Food_Producing_Animals_46",
+    "title": "Free Sale Certificate (Animal Feed) for Food Producing Animals",
+    "licence_name": "Free Sale Certificate (Animal Feed) for Food-Producing Animals",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/free-sale-certificate-animal-feed-for-food-producing-animals",
     "original_index": 46
   },
   {
-    "chunk_id": "Submission_Form_for_Food_Safety_Management_System_47",
-    "title": "Submission Form for Food Safety Management System",
-    "licence_name": "Submission Form for Food Safety Management System",
-    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/submission-form-for-food-safety-management-system",
+    "chunk_id": "Veterinary_Certificate_for_Food_Producing_Animals_47",
+    "title": "Veterinary Certificate for Food Producing Animals",
+    "licence_name": "Veterinary Certificate for Food-Producing Animals",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/veterinary-certificate-for-food-producing-animals",
     "original_index": 47
   },
   {
-    "chunk_id": "Understanding_the_Food_Safety_Management_System__FSMS__48",
-    "title": "Understanding the Food Safety Management System (FSMS)",
-    "licence_name": "No licence required",
-    "url": "https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-safety-management/understanding-food-safety-management-system-fsms",
+    "chunk_id": "Submission_Form_for_Food_Safety_Management_System_48",
+    "title": "Submission Form for Food Safety Management System",
+    "licence_name": "Submission Form for Food Safety Management System",
+    "url": "https://licensing.gobusiness.gov.sg/licence-directory/sfa/submission-form-for-food-safety-management-system",
     "original_index": 48
   },
   {
-    "chunk_id": "Apply_for_Liquor_Licence_49",
-    "title": "Apply for Liquor Licence",
-    "licence_name": "Liquor Licence (Singapore Police Force)",
-    "url": "https://www.police.gov.sg/E-Services/Apply-for-Liquor-Licence",
+    "chunk_id": "Understanding_the_Food_Safety_Management_System__FSMS__49",
+    "title": "Understanding the Food Safety Management System (FSMS)",
+    "licence_name": "No licence required",
+    "url": "https://www.sfa.gov.sg/regulatory-standards-frameworks-guidelines/food-safety-management/understanding-food-safety-management-system-fsms",
     "original_index": 49
   },
   {
-    "chunk_id": "Becoming_a_Hawker_50",
-    "title": "Becoming a Hawker",
-    "licence_name": "Food Stall Licence",
-    "url": "https://www.nea.gov.sg/our-services/hawker-management/becoming-a-hawker",
+    "chunk_id": "Apply_for_Liquor_Licence_50",
+    "title": "Apply for Liquor Licence",
+    "licence_name": "Liquor Licence (Singapore Police Force)",
+    "url": "https://www.police.gov.sg/E-Services/Apply-for-Liquor-Licence",
     "original_index": 50
   },
   {
-    "chunk_id": "Halal_Certification_Schemes_51",
-    "title": "Halal Certification Schemes",
-    "licence_name": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Eating Establishment Scheme (Category 1)",
-    "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/",
+    "chunk_id": "Becoming_a_Hawker_51",
+    "title": "Becoming a Hawker",
+    "licence_name": "Food Stall Licence",
+    "url": "https://www.nea.gov.sg/our-services/hawker-management/becoming-a-hawker",
     "original_index": 51
   },
   {
-    "chunk_id": "Food_Preparation_Area_Scheme_52",
-    "title": "Food Preparation Area Scheme",
-    "licence_name": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Food Preparation Area Scheme",
-    "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/",
-    "original_index": 52
-  },
-  {
-    "chunk_id": "Product_or_Whole_Plant_Scheme_53",
-    "title": "Product or Whole Plant Scheme",
-    "licence_name": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Product / Whole Plant Scheme",
-    "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/",
-    "original_index": 53
-  },
-  {
-    "chunk_id": "Poultry_Abattoir_Scheme_54",
-    "title": "Poultry Abattoir Scheme",
-    "licence_name": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Poultry Scheme",
-    "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/",
-    "original_index": 54
-  },
-  {
-    "chunk_id": "Endorsement_Scheme_55",
-    "title": "Endorsement Scheme",
-    "licence_name": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Endorsement Scheme",
-    "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/",
-    "original_index": 55
-  },
-  {
-    "chunk_id": "Storage_Facility_Scheme_56",
-    "title": "Storage Facility Scheme",
-    "licence_name": "Halal Certification (Majlis Ugama Islam Singapura - MUIS) - Storage Facility Scheme",
-    "url": "https://www.muis.gov.sg/halal/for-business/scheme-types---eligibility-criteria/",
-    "original_index": 56
-  },
-  {
-    "chunk_id": "Tobacco_Retail_Licence_57",
+    "chunk_id": "Tobacco_Retail_Licence_52",
     "title": "Tobacco Retail Licence",
     "licence_name": "Tobacco Retail Licence (Health Sciences Authority)",
     "url": "https://www.hsa.gov.sg/tobacco-regulation/licences/retail/apply",
-    "original_index": 57
+    "original_index": 52
   }
 ]

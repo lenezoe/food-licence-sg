@@ -324,7 +324,21 @@ if st.session_state.submitted:
     ] or [all_chunks[i] for i in top_indices[:10]]
 
 
-    combined_context = "\n\n".join(retrieved_chunks)
+    def chunk_to_text(chunk):
+        parts = [
+            f"Title: {chunk.get('title','')}",
+            f"Subsection: {chunk.get('subsection','')}",
+            f"Licence: {chunk.get('licence','')}",
+            f"Description: {chunk.get('description','')}",
+            f"Reason: {chunk.get('reason_for_licence','')}",
+            f"Requirements: {chunk.get('requirements','')}",
+            f"Application Guidance: {chunk.get('app_guidance','')}",
+            f"Other: {chunk.get('other','')}",
+            f"URL: {chunk.get('url','')}"
+        ]
+        return "\n".join([p for p in parts if p])
+
+    combined_context = "\n\n".join(chunk_to_text(chunk) for chunk in retrieved_chunks)
 
     # -------------------------------
     # STEP 5: Summarize Context
@@ -385,6 +399,9 @@ if st.session_state.submitted:
     4. Food Hygiene Training Requirement  
     - At least one staff (usually the stallholder) must complete the Basic Food Hygiene Course before the licence is granted.
 
+    Application Overview
+    Apply through GoBusiness, ensure all documents are complete, and payment must be made within 28 days after notification.
+
     More information on Licences (tabulate):
     Licence Name | Topic | Application Guidance | Webpage
     Food Stall Licence | Food retail | Secure stall via NEA tender, then apply through GoBusiness with tenancy docs and layout plan. | https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-stall-licence
@@ -416,6 +433,8 @@ if st.session_state.submitted:
     - If you intend to store frozen or chilled meat products locally, your cold-store facility must be licensed by SFA.  
     - Operating an unlicensed cold store is an offence under the Sale of Food Act.
 
+    Application Overview
+    Apply as a Business User with a UEN-registered company/entity or as a Third Party Filer for Business. Estimated processing time is 1 working day. Licence Fee: $84.00. Payment Methods: American Express, Diners Club, JCB, Mastercard, UnionPay, Visa, PayNow, GIRO.
     More information on Licences (tabulate):
     Licence Name | Topic | Application Guidance | Webpage
     Licence for Import/Export/Transhipment of Meat and Fish Products | Import/export | Apply via GoBusiness Licensing. Applicant must be a registered business in Singapore. | https://www.sfa.gov.sg/food-import-export/licence-permit-registration/businesses-that-need-licence-permit-registration-for-import-export
@@ -451,6 +470,9 @@ if st.session_state.submitted:
        • Premises and food preparation areas must comply with Halal assurance and segregation guidelines  
    - Apply directly through the [Muis Halal Certification Portal](https://licensing.gobusiness.gov.sg/licence-directory/muis/halal-certification).
 
+    Application Overview 
+    Follow the application process outlined for Halal certification.
+    
     More information on Licences:
     Licence/Certification Name | Topic | Application Guidance | Webpage
     Food Shop Licence | Food retail | Required for any food stall preparing/selling ready-to-eat food. Apply via GoBusiness. |https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-shop-licence
@@ -472,8 +494,9 @@ if st.session_state.submitted:
     Instructions:
     1. Start with a short summary of the user's business.
     2. Then list "Relevant Licences for Your Business" with bullet points.
-    3. End with a table: Licence Name | Topic | Application Guidance | Webpage.
-    4. Add a one-line compliance reminder.
+    3. Then list Application Overview with bullet points
+    4. End with a table: Licence Name | Topic | Application Guidance | Webpage.
+    5. Add a one-line compliance reminder.
     """
 
     response = client.chat.completions.create(
