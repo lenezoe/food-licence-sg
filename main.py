@@ -160,7 +160,7 @@ if st.session_state.page == "main":
     with st.form("licence_form"):
         # Type of business
         st.session_state.business_type = st.selectbox(
-            "🍽️ Business Type",
+            "🍽️ Business Type (Unsure? Select 'Other')",
             [
                 "Restaurant / Café / Eatery",
                 "Hawker / Coffeeshop / Food Court Stall",
@@ -207,7 +207,7 @@ if st.session_state.page == "main":
 
         # Additional details
         st.session_state.additional_details = st.text_area(
-            "Tell us more about your business idea",
+            "Tell us more about your business idea (e.g., your food menu)",
             placeholder="E.g. A halal-certified stall in a cafeteria, selling nasi padang and drinks...",
             key="additional_details_text"
         )
@@ -370,6 +370,7 @@ if st.session_state.submitted:
     Use ONLY the context you have and do not provide information outside the context.
     If unsure, respond: "Sorry, we do not have information related to your query. Please refer to GoBusiness (https://licensing.gobusiness.gov.sg) for the latest licensing requirements."
     If relevant URL for the information is unavailable, use https://licensing.gobusiness.gov.sg. 
+    End your response with "We didn’t understand your business idea correctly? Give us more information in the “Business idea” box above!"
     """
 
     few_shot_examples = """
@@ -407,6 +408,8 @@ if st.session_state.submitted:
     Food Stall Licence | Food retail | Secure stall via NEA tender, then apply through GoBusiness with tenancy docs and layout plan. | https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-stall-licence
     Basic Food Hygiene Course | Training | Mandatory for stallholders before licence approval. | https://licensing.gobusiness.gov.sg
 
+    We didn’t understand your business idea correctly? Give us more information in the “Business idea” box above!
+
     # Note: The second row has no URL because it is not present in the 'all_chunks' dataset.
 
     Example 2: 
@@ -435,12 +438,16 @@ if st.session_state.submitted:
 
     Application Overview
     Apply as a Business User with a UEN-registered company/entity or as a Third Party Filer for Business. Estimated processing time is 1 working day. Licence Fee: $84.00. Payment Methods: American Express, Diners Club, JCB, Mastercard, UnionPay, Visa, PayNow, GIRO.
+    
     More information on Licences (tabulate):
     Licence Name | Topic | Application Guidance | Webpage
     Licence for Import/Export/Transhipment of Meat and Fish Products | Import/export | Apply via GoBusiness Licensing. Applicant must be a registered business in Singapore. | https://www.sfa.gov.sg/food-import-export/licence-permit-registration/businesses-that-need-licence-permit-registration-for-import-export
     Import Permit (per consignment) | TradeNet | Apply via TradeNet before import. Approved countries and plants only. | https://licensing.gobusiness.gov.sg/e-adviser/imports-and-exports#step-1-activate-your-customs-account-via-tradenet
     Cargo Clearance Permit | Customs | Used for clearance of approved consignments. | https://licensing.gobusiness.gov.sg/e-adviser/imports-and-exports
     Cold Storage Licence | Facility | Required if storing frozen/chilled meat locally. | https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-operate-a-coldstore
+
+    We didn’t understand your business idea correctly? Give us more information in the “Business idea” box above!
+
 
     Example 3:
     User Input:
@@ -478,6 +485,8 @@ if st.session_state.submitted:
     Food Shop Licence | Food retail | Required for any food stall preparing/selling ready-to-eat food. Apply via GoBusiness. |https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-shop-licence
     Muis Halal Certification (Category 1 — Eating Establishment Scheme) | Halal compliance | Apply via Muis. Applicant must hold a valid SFA licence and meet Halal assurance requirements. | https://licensing.gobusiness.gov.sg/licence-directory/muis/halal-certification
 
+    We didn’t understand your business idea correctly? Give us more information in the “Business idea” box above!
+
     """
 
     user_prompt = f"""
@@ -496,7 +505,8 @@ if st.session_state.submitted:
     2. Then list "Relevant Licences for Your Business" with bullet points.
     3. Then list Application Overview with bullet points
     4. End with a table: Licence Name | Topic | Application Guidance | Webpage.
-    5. Add a one-line compliance reminder.
+    5. Add a one-line compliance reminder
+    6. End off with "We didn’t understand your business idea correctly? Give us more information in the “Business idea” box above!".
     """
 
     response = client.chat.completions.create(
@@ -525,14 +535,16 @@ if st.session_state.page == "about":
         """
         ### 📌 Overview
         ***Singapore Food Licence AI*** is a web-based assistant designed to help food entrepreneurs, retailers, and import/export businesses quickly understand the regulatory approvals and licences they may need in Singapore.
-
-        By combining open-source government data, vector-based retrieval, and AI-powered synthesis, the app delivers personalised, easy-to-understand guidance within seconds.
+        
+        Imagine you're an entrepreneur excited to start selling your grandmother's famous laksa recipe, but when you search government websites for licensing requirements, you're overwhelmed by technical jargon across multiple agencies. You know you want to sell "zi char", “biryani” or set up a vending machine selling "煎饼", but official forms don't recognise these local terms, leaving you unsure how to describe your business to regulators. Singapore Food Licence AI bridges this gap by understanding how Singaporeans naturally describe their food businesses - whether "nasi padang," "bak kut teh," or "BBT" - and instantly translates your local language into precise regulatory categories and licensing requirements.
+        
+        Built on comprehensive data covering licensing, permits, and registrations from multiple government agencies including SFA, SPF, MUIS, NEA, and others, the AI-powered platform delivers accurate, contextualised advice in plain English within seconds. Simply describe your food business idea using familiar local terms, and the assistant provides step-by-step guidance on exactly which licences you need, from which agencies, and in what sequence. By eliminating the language barrier between entrepreneurial vision and regulatory compliance, Singapore Food Licence AI empowers local food entrepreneurs to focus on perfecting their recipes and serving customers, rather than deciphering bureaucratic requirements across fragmented government websites.
 
          ⚡ **Key Features**
         - **Interactive Business Form:** A simple and intuitive interface that captures your business type, food categories, and operational details.
         - **Personalised Licence Guidance:** Generates tailored recommendations based on your specific business activities.
         - **AI-Powered Summaries:** Uses GPT-4o-mini to transform complex regulations into clear, plain-language explanations.
-        - **Smart Search & Retrieval:** Combines keyword search with vector-based similarity to surface the most relevant information quickly and accurately.
+        - **Smart Search & Retrieval:** Combines keyword search with vector-based similarity to surface the most relevant information accurately.
 
         ---
 
