@@ -408,8 +408,6 @@ if st.session_state.submitted:
     Food Stall Licence | Food retail | Secure stall via NEA tender, then apply through GoBusiness with tenancy docs and layout plan. | https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-stall-licence
     Basic Food Hygiene Course | Training | Mandatory for stallholders before licence approval. | https://licensing.gobusiness.gov.sg
 
-    We didn’t understand your business idea correctly? Give us more information in the “Business idea” box above!
-
     # Note: The second row has no URL because it is not present in the 'all_chunks' dataset.
 
     Example 2: 
@@ -446,9 +444,6 @@ if st.session_state.submitted:
     Cargo Clearance Permit | Customs | Used for clearance of approved consignments. | https://licensing.gobusiness.gov.sg/e-adviser/imports-and-exports
     Cold Storage Licence | Facility | Required if storing frozen/chilled meat locally. | https://licensing.gobusiness.gov.sg/licence-directory/sfa/licence-to-operate-a-coldstore
 
-    We didn’t understand your business idea correctly? Give us more information in the “Business idea” box above!
-
-
     Example 3:
     User Input:
     Business type: Operate a Halal cafeteria stall selling cooked food
@@ -480,12 +475,10 @@ if st.session_state.submitted:
     Application Overview 
     Follow the application process outlined for Halal certification.
     
-    More information on Licences:
+    More information on Licences (tabulate):
     Licence/Certification Name | Topic | Application Guidance | Webpage
     Food Shop Licence | Food retail | Required for any food stall preparing/selling ready-to-eat food. Apply via GoBusiness. |https://licensing.gobusiness.gov.sg/licence-directory/sfa/food-shop-licence
     Muis Halal Certification (Category 1 — Eating Establishment Scheme) | Halal compliance | Apply via Muis. Applicant must hold a valid SFA licence and meet Halal assurance requirements. | https://licensing.gobusiness.gov.sg/licence-directory/muis/halal-certification
-
-    We didn’t understand your business idea correctly? Give us more information in the “Business idea” box above!
 
     """
 
